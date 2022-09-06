@@ -1,3 +1,5 @@
+Copyright (c) 2022 Matheus Carolino
+
 # END USERS LICENCE AGREEMENT
 
 This End User License Agreement (the "EULA") is a legal agreement between you (the "Licensee") and Matheus Carolino (the "Licensor"). This EULA governs your acquisition and use of Salamandra (the "Software"), directly from the Licensor or indirectly through an authorized reseller or distributor (a "Reseller"). 
@@ -11,6 +13,8 @@ Please read the following terms and conditions carefully before using this Softw
 If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
 
 ## Terms of the License
+
+* This Software is free for personal use or use in commercial settings (e.g. to automate a radio station, in sound system for supermarkets, shops, coffees and other ambients).
 
 * This License doesn't grant to you the rights to sell the Software. You cannot reproduce, copy, distribute, resell the Software to third parties for a fee or other considerations, both individually or in an bundle.
 
@@ -26,4 +30,6 @@ If you are entering into this EULA agreement on behalf of a company or other leg
 
 # Intellectual Property and Ownership
 
-The Licensor is the owner of the copyright of the Software, all of its derivatives, title and accompanying materials are the exclusive property of the Licensor. All rights of any kind, which are not expressly granted in this License, are entirely and exclusively reserved to and by the Licensor. There are no third party beneficiaries of any promises, obligations or representations made by the Licensor herein.
+The Licensor is the owner of the copyright of the Software, all of its derivatives, title and accompanying materials are the exclusive property of the Licensor.
+
+All rights of any kind, which are not expressly granted in this License, are entirely and exclusively reserved to and by the Licensor. There are no third party beneficiaries of any promises, obligations or representations made by the Licensor herein.
