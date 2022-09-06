@@ -65,6 +65,6 @@ We don't have a tutorial yet, but Salamandra is designed to be intuitive, with a
 * [Lizard icons created by Kiranshastry - Flaticon](https://www.flaticon.com/free-icons/lizard)
 
 # Contributions
-First of all, thanks for thinking in contributing to this project! Salamandra is an open source software, so any contributions are welcome.
+First of all, thanks for thinking in contributing to this project! Salamandra is an freeware software, but not open source - This does not mean that contributions are not welcome, you can always contribute with testing, documentation, reporting bugs or sharing ideas for new functionalities.
 
 Right now, what we really need is testing. All functionalities are stable in our testing enviroments, but bugs and unexpected behaviors can happen in differents setups, even more in these initial releases.
