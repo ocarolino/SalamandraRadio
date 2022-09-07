@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<b>Salamandra</b> is an open source radio automation software for <b>Windows</b>.
+	<b>Salamandra</b> is a radio automation software for <b>Windows</b>.
 </p> 
 
 <p align="center">
