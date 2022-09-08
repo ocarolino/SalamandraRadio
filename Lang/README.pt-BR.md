@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="Salamandra" height="150" src="../Readme/lizard.png"/>
+	<img alt="Salamandra" height="150" src="../../Readme/lizard.png"/>
 </p>
 
 <p align="center">
@@ -27,22 +27,22 @@ Nós ainda não temos um tutorial, mas o Salamandra foi desenvolvido de forma a 
 
 ### Player Principal
 <p align="center">
-	<img src="Readme/sc01.png" alt="Main Player"/>
+	<img src="../../Readme/sc01.png" alt="Main Player"/>
 </p>
 
 ### Programador de Eventos
 <p align="center">
-	<img src="Readme/sc02.png" alt="Event Scheduler"/>
+	<img src="../Readme/sc02.png" alt="Event Scheduler"/>
 </p>
 
 ### Player de Pré-Escuta
 <p align="center">
-	<img src="Readme/sc03.png" alt="Pre-Listen"/>
+	<img src="../Readme/sc03.png" alt="Pre-Listen"/>
 </p>
 
 ### Um dos logs diários
 <p align="center">
-	<img src="Readme/sc04.png" alt="Pre-Listen"/>
+	<img src="../Readme/sc04.png" alt="Pre-Listen"/>
 </p>
 
 # Bibliotecas e Recursos
