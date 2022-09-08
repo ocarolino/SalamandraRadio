@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="Salamandra" height="150" src="Readme/lizard.png"/>
+	<img alt="Salamandra" height="150" src="../Readme/lizard.png"/>
 </p>
 
 <p align="center">
