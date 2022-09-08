@@ -27,7 +27,7 @@ Nós ainda não temos um tutorial, mas o Salamandra foi desenvolvido de forma a 
 
 ### Player Principal
 <p align="center">
-	<img src="../../Readme/sc01.png" alt="Main Player"/>
+	<img src="../Readme/sc01.png" alt="Main Player"/>
 </p>
 
 ### Programador de Eventos
