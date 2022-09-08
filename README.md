@@ -10,6 +10,14 @@
 	Designed for radio stations that need a <b>simple</b>, <b>easy</b> and <b>stable</b> software for automated broadcasting.
 </p>
 
+<hr>
+
+<p align="center">
+	<a href="https://github.com/ocarolino/SalamandraRadio">English</a> | <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/README.pt-BR.md">Português do Brasil</a>
+</p>
+
+<hr>
+
 # Features
 * Player with support for major audio files (wav, mp3, wma, ogg and flac)
 * Multiple track selection modes, like random, shuffle or manual for playback control.
