@@ -25,6 +25,14 @@ Antes de começar a explicar como fazer a sua programação musical, vamos a uma
 * 4 - **Playlist** - Onde você poderá colocar as faixas que serão tocadas na sua rádio.
 * 5 - **Controles do Player** - Controles do player, volume, modo da playlist e posição da faixa atual.
 
+## Linguagem do Programa
+
+O Salamandra começa por padrão em Inglês, porém seu layout se mantem o mesmo. Para alterar a lingua para Português, acesse o menu **Tools > Settings** e na janela que se abrir, semelhante a imagem abaixo, troque de English para Português e reinicie o programa.
+
+<p align="center">
+	<img src="Images/SettingsWindow.png" alt="Tela Principal"/>
+</p>
+
 # Criando a playlist musical
 
 Para adicionar faixas a playlist, você pode utilizar o menu **Playlist**, onde você terá a opção de adicionar os diversos tipos de faixa suportados pelo Salamandra, como faixas de áudio, locuções de hora ou arquivos aleatórios. 
