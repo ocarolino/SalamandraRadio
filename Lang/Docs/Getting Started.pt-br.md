@@ -87,16 +87,24 @@ Vamos criar então um alguns eventos de locução de hora que serão disparados 
 Como pode notar, teremos ao fim quatro eventos que serão disparados aos minutos 00, 15, 30 e 45. Vamos a uma explicação então do agendamento destes.
 
 <p align="center">
-	<img src="Images/EventWindow.png" alt="Agendamento de Evento"/>
+	<img src="Images/EventWindow_DateAndTime.png" alt="Data e Hora no Agendamento de Evento"/>
 </p>
 
 Em **Data e Hora de Início**, colocamos o horário do evento e logo em seguida, a primeira opção a ter sido marcada foi a opção **Imediato**. Esta opção significa que o evento entrará exatamente no horário agendado - **isso significa que qualquer música que esteja tocando será cortada para a entrada do evento**. Se você deseja que a música toque até o final e logo seguida o evento, não marque esta opção!
+
+<p align="center">
+	<img src="Images/EventWindow_TimeAndDays.png" alt="Horários e Dias no Agendamento de Evento"/>
+</p>
 
 Vamos então a explicação da opção **Horários e Dias**. Quando marcamos **Outros Horários**, indicamos ao salamandra que queremos que o evento toque em mais horários do que o configurado inicialmente (17:00:00). Podemos então marcar as horas, neste caso de 08h até 19h, que o evento será disparado. Caso você deseje que o evento toque apenas em um horário específico, não marque esta opção. 
 
 Note que o horário original muda para (__:00:00), isto significa que o evento tocará em todos os horários selecionados aos zero minutos e zero segundos, 8:00:00, 9:00:00, 10:00:00, etc.
 
 Já a opção **Dias da Semana**, torna o agendamento do evento periódico, assim como a opção anterior. Quando você marca esta opção, você indica ao Salamandra que deseja que o evento toque em mais dias do que só o configurado em **Data e Hora de Início**. Caso você deseje que o evento toque apenas em um único dia específico, não marque esta opção!
+
+<p align="center">
+	<img src="Images/EventWindow_EventType.png" alt="Tipo do Evento no Agendamento de Evento"/>
+</p>
 
 Após isto, basta selecionar o **Tipo de Evento**. Para as locuções de hora, basta nós selecionarmos **Locução de Hora**. Para arquivos de áudio, como veremos em seguida, devemos clicar no botão [...] e selecionar o arquivo que desejamos.
 
