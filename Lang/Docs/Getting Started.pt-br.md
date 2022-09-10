@@ -4,6 +4,7 @@ Olá, se você nunca utilizou o Salamandra, este tutorial é para você! Neste t
 
 Os seguintes temas serão explicados nesse tutorial:
 
+* Configurar a linguagem do Salamandra
 * Criar a playlist musical
 * Configurar os arquivos de Locução de Hora
 * Agendar um bloco de anúncios com os eventos
@@ -11,7 +12,17 @@ Os seguintes temas serão explicados nesse tutorial:
 * Agendar uma playlist musical
 * Agendar um programa utilizando as prioridades
 
-# Descrição da Tela Inicial
+# Linguagem do Programa
+
+O Salamandra começa por padrão em Inglês, mas tem disponível tradução para Português. Para alterar a língua, acesse o menu **Tools > Settings** ou clique no botão superior de engrenagem e troque de English para Português na janela que se abrir. Qualquer dúvida, basta fazer como na animação abaixo.
+
+<p align="center">
+	<img src="Images/ChangingLanguage.webp" alt="Tela Principal"/>
+</p>
+
+# Criando a playlist musical
+
+## Entendendo a Tela Inicial
 
 Antes de começar a explicar como fazer a sua programação musical, vamos a uma breve descrição da tela inicial do Salamandra.
 
@@ -25,15 +36,7 @@ Antes de começar a explicar como fazer a sua programação musical, vamos a uma
 * 4 - **Playlist** - Onde você poderá colocar as faixas que serão tocadas na sua rádio.
 * 5 - **Controles do Player** - Controles do player, volume, modo da playlist e posição da faixa atual.
 
-## Linguagem do Programa
-
-O Salamandra começa por padrão em Inglês, porém seu layout se mantem o mesmo. Para alterar a lingua para Português, acesse o menu **Tools > Settings** e na janela que se abrir, semelhante a imagem abaixo, troque de English para Português e reinicie o programa.
-
-<p align="center">
-	<img src="Images/SettingsWindow.png" alt="Tela Principal"/>
-</p>
-
-# Criando a playlist musical
+## Adicionando faixas à Playlist
 
 Para adicionar faixas a playlist, você pode utilizar o menu **Playlist**, onde você terá a opção de adicionar os diversos tipos de faixa suportados pelo Salamandra, como faixas de áudio, locuções de hora ou arquivos aleatórios. 
 
@@ -44,6 +47,8 @@ Você também pode arrastar arquivos direto do explorador de arquivos do sistema
 </p>
 
 Para manter uma playlist já montada salva, basta utilizar o menu **Arquivo > Salvar** ou o botão de disquete na Barra de Ferramentas. Para abrir uma playlist salva, basta utilizar o menu **Arquivo > Abrir** ou o botão de pasta na Barra de Ferramentas.
+
+Após montar a playlist, basta utilizar os **Controles do Player** para começar a tocar as suas músicas. 
 
 # Configurando os arquivos de Locução de Hora
 
