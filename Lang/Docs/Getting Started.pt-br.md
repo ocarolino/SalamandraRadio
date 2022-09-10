@@ -36,3 +36,17 @@ Você também pode arrastar arquivos direto do explorador de arquivos do sistema
 </p>
 
 Para manter uma playlist já montada salva, basta utilizar o menu **Arquivo > Salvar** ou o botão de disquete na Barra de Ferramentas. Para abrir uma playlist salva, basta utilizar o menu **Arquivo > Abrir** ou o botão de pasta na Barra de Ferramentas.
+
+# Configurando os arquivos de Locução de Hora
+
+Para configurar os arquivos de Locução de Hora, basta acessar o menu **Ferramentas > Configurações** ou o botão de engrenagem na Barra de Ferramentas. Você então terá acesso a janela de Configurações.
+
+Basta então acessar a opção **Caminho para arquivos de Locução de Horário**, clicar no botão [...] e selecionar a pasta onde estão seus arquivos de horário.
+
+<p align="center">
+	<img src="Images/SettingsWindow.png" alt="Tela Principal"/>
+</p>
+
+Os arquivos devem estar no seguinte formato. **HRSxx** e **MINxx**, onde o **xx** representa um número indicando o tempo. Um arquivo para 8h da manhã, por exemplo, seria **HRS08**, para o minuto 59, seria **MIN59**. Estes arquivos então são automaticamente combinados pelo Salamandra para indicar a hora nas faixas de Locução de Hora.
+
+Os arquivos de locução de hora podem estar em qualquer um dos formatos de áudio suportados pelo Salamandra.
