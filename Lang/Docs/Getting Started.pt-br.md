@@ -108,6 +108,42 @@ Já a opção **Dias da Semana**, torna o agendamento do evento periódico, assi
 
 Após isto, basta selecionar o **Tipo de Evento**. Para as locuções de hora, basta nós selecionarmos **Locução de Hora**. Para arquivos de áudio, como veremos em seguida, devemos clicar no botão [...] e selecionar o arquivo que desejamos.
 
-Após isto, como queremos que os eventos toquem de 15 em 15 minutos, basta copiar e colar o evento original e apenas trocar a minutagem de acordo.
+Para finalizar, como queremos que os eventos toquem de 15 em 15 minutos, basta copiar e colar o evento original e apenas trocar a minutagem de acordo.
 
-## Agendando anúncios pelos eventos
+## Agendando os anúncios
+
+Vamos então agendar alguns anúncios para demonstrar. Para que o tutorial seja breve, vamos programar todos apenas para disparar no bloco dos 45 minutos. 
+
+Se você deseja que seus anúncios disparem em outros minutos, basta então copiar e colar, assim como fizemos com as Locuções de Hora.
+
+<p align="center">
+	<img src="Images/SchedulingAds.webp" alt="Agendando Anúncios"/>
+</p>
+
+As diferenças de um agendamento para outro são poucas. Para agendar os anúncios, nós apenas não marcamos a caixa **Imediato**, já que os anúncios não devem cortar as músicas nem um anúncio cortar o outro. O bloco será disparado pela **Locução de Hora**, esta sim que terá seu disparo no modo imediato.
+
+Também diferente da Locução de Hora, para arquivos de áudio temos que obrigatoriamente selecionar o arquivo que será reproduzido pelo player.
+
+Você deve notar que a Planilha de Próximos Eventos deve ficar da seguinte forma, ou parecida:
+
+<p align="center">
+	<img src="Images/UpcomingEventOrder1.png" alt="Próximos Eventos - Sem Ordenação"/>
+</p>
+
+Porém, algo que pode acontecer em diversas rádios é ter anunciantes do mesmo segmento, os dois mercados no exemplo, e não é interessante anunciar eles um atrás do outro.
+
+Para evitar isso, podemos utilizar a opção **Ordem do Evento na Fila**. Este é um número que varia de **0 a 99**, com todos os eventos iniciando em **50**. Para eventos que compartilham o mesmo horário, neste caso 09:45:00, esta é uma opção para customizar a ordem deles de acordo com a sua vontade.
+
+<p align="center">
+	<img src="Images/EventWindow_Order.png" alt="Ordenação do Evento"/>
+</p>
+
+Podemos então pegar um dos mercados, neste caso o **Mercado 24 Horas** e modificar este valor. Como os dois mercados estão na posição inferior na grade, devemos então mudar para qualquer número menor que 50, neste caso 49 e confirmar. Assim, "puxamos" o anúncio para o topo do bloco, se fosse o contrário, colocariamos um número maior que 50, "empurrando" o anúncio para baixo.
+
+Os eventos então serão reordenados na fila de Próximos Eventos, ficando desta forma:
+
+<p align="center">
+	<img src="Images/UpcomingEventOrder2.png" alt="Próximos Eventos - Pós Ordenação"/>
+</p>
+
+Assim conseguimos evitar que anúncios de concorrentes sejam anunciados um seguidos do outro, com um maior controle do nosso bloco de anunciantes.
