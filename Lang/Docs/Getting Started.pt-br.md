@@ -130,17 +130,19 @@ Você deve notar que a Planilha de Próximos Eventos deve ficar da seguinte form
 	<img src="Images/UpcomingEventOrder1.png" alt="Próximos Eventos - Sem Ordenação"/>
 </p>
 
-Porém, algo que pode acontecer em diversas rádios é ter anunciantes do mesmo segmento, os dois mercados no exemplo, e não é interessante anunciar eles um atrás do outro.
+### Customizando a Ordem dos Eventos
 
-Para evitar isso, podemos utilizar a opção **Ordem do Evento na Fila**. Este é um número que varia de **0 a 99**, com todos os eventos iniciando em **50**. Para eventos que compartilham o mesmo horário, neste caso 09:45:00, esta é uma opção para customizar a ordem deles de acordo com a sua vontade.
+Algo que pode acontecer em diversas rádios é ter anunciantes do mesmo segmento, em nosso exemplo, os dois mercados, e não é interessante anunciar eles um atrás do outro. Para evitar isso, podemos utilizar a opção **Ordem do Evento na Fila**. 
+
+A ordem do evento é um número que varia de **0 a 99**, com todos os eventos iniciando em **50**. Para eventos que compartilham o mesmo horário, neste caso 10:45:00, esta é uma opção para customizar a ordem deles de acordo com a sua vontade. Podemos então pegar um dos mercados, neste caso o **Mercado 24 Horas** e modificar este valor.
 
 <p align="center">
 	<img src="Images/EventWindow_Order.png" alt="Ordenação do Evento"/>
 </p>
 
-Podemos então pegar um dos mercados, neste caso o **Mercado 24 Horas** e modificar este valor. Como os dois mercados estão na posição inferior na grade, devemos então mudar para qualquer número menor que 50, neste caso 49 e confirmar. Assim, "puxamos" o anúncio para o topo do bloco, se fosse o contrário, colocariamos um número maior que 50, "empurrando" o anúncio para baixo.
+ Como os dois mercados estão na posição inferior na grade, devemos então mudar um deles para qualquer número menor que 50, neste caso 49, e confirmar. Assim, "puxamos" o anúncio para o topo do bloco, se fosse o contrário, colocariamos um número maior que 50, "empurrando" o anúncio para baixo.
 
-Os eventos então serão reordenados na fila de Próximos Eventos, ficando desta forma:
+Após essa alteração, os eventos então serão reposicionados na fila de Próximos Eventos, ficando desta forma:
 
 <p align="center">
 	<img src="Images/UpcomingEventOrder2.png" alt="Próximos Eventos - Pós Ordenação"/>
