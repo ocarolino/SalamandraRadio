@@ -1,11 +1,13 @@
 # Primeiros Passos
 
-Olá, se você nunca utilizou o Salamandra, este tutorial é para você! Neste tutorial vamos explorar algumas opções básicas do programa para cumprir as necessidades básicas de qualquer rádio.
+Olá, se você nunca utilizou o Salamandra, este tutorial é para você! Neste tutorial vamos explorar algumas opções básicas do programa para cumprir as necessidades básicas de qualquer rádio. Este tutorial parte do princípio que você já saiba o mínimo sobre operar qualquer programa em seu computador, explicando apenas o básico sobre as diversas opções do Salamandra.
 
 Os seguintes temas serão explicados nesse tutorial:
 
-* Configurar a linguagem do Salamandra
-* Criar a playlist musical
+- [Configurar a linguagem do Salamandra](#linguagem-do-programa)
+- [Criar a playlist musical](#criando-a-playlist-musical)
+  - [Entendendo a Tela Inicial](#entendendo-a-tela-inicial)
+  - [Adicionando faixas à Playlist](#adicionando-faixas-%C3%A0-playlist)
 * Configurar os arquivos de Locução de Hora
 * Agendar um bloco de anúncios com os eventos
 * Agendar um bloco de anúncios com playlist sequencial
