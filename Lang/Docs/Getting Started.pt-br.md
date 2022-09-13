@@ -9,6 +9,7 @@ Os seguintes temas serão explicados nesse tutorial:
 * Configurar os arquivos de Locução de Hora
 * Agendar um bloco de anúncios com os eventos
 * Agendar um bloco de anúncios com playlist sequencial
+* Agendar uma playlist musical
 * Agendar um programa utilizando as prioridades
 
 # Linguagem do Programa
@@ -159,8 +160,26 @@ Para agendar um bloco de anúncios utilizando uma playlist sequencial, basta mon
 
 Ao agendar o bloco de anúncios, basta então selecionar **Arquivo de Playlist** como o Tipo do Evento e selecionar a playlist salva.
 
+<p align="center">
+	<img src="Images/SchedulingSequentialPlaylist.png" alt="Agendando playlist seq"/>
+</p>
+
 ## Playlists Sequenciais e Rotativas
 
 As playlists sequenciais são um tipo especial de faixa, na qual você pode colocar diversas faixas de áudio e **todas elas tocarão na sequencia salva até que termine a playlist**. São uma opção interessante para criar blocos customizados de anúncios como demonstrado acima.
 
 Outro tipo especial de faixa são as playlists rotativas, você pode criá-las da mesma forma que as playlists sequenciais, mas salve como **Playlist rot**. Estas faixas são ótimas para quando você tem um anunciante com mais de uma versão de seu anúncio ou então diversas vinhetas que você deseja rotacionar. Basta colocar todos em uma playlist rotativa e agendar, dessa forma, **toda vez que a faixa for disparada, ela tocará uma das faixas, alternando entre as faixas salvas na playlist**.
+
+# Agendar uma playlist musical
+
+Aproveitando o assunto de playlists, para agendar uma playlist musical basta da mesma forma selecionar **Arquivo de Playlist** como o Tipo do Evento e agendar a sua playlist.
+
+<p align="center">
+	<img src="Images/SchedulingPlaylist.png" alt="Agendando playlist m3u"/>
+</p>
+
+Esta opção é muito interessante para rádios que tem diferentes grades musicais durante o dia, ou diferentes grades por dia da semana. Basta montar e agendar suas playliste de acordo com os dias e horários desejados para tornar a troca da grade musical mais fácil.
+
+Note que também há tipos de eventos especiais, como **Iniciar Playlist** e **Parar playlist**. Estes eventos simulam um clique no botão de **Play** e **Stop**, respectivamente, para que você possa agendar quando iniciar ou parar a reprodução do player, automatizando ainda mais o seu controle sobre os horários de sua rádio.
+
+# Agendar um programa utilizando as prioridades
