@@ -9,7 +9,6 @@ Os seguintes temas serão explicados nesse tutorial:
 * Configurar os arquivos de Locução de Hora
 * Agendar um bloco de anúncios com os eventos
 * Agendar um bloco de anúncios com playlist sequencial
-* Agendar uma playlist musical
 * Agendar um programa utilizando as prioridades
 
 # Linguagem do Programa
@@ -149,3 +148,19 @@ Após essa alteração, os eventos então serão reposicionados na fila de Próx
 </p>
 
 Assim conseguimos evitar que anúncios de concorrentes sejam anunciados um seguidos do outro, com um maior controle do nosso bloco de anunciantes.
+
+# Agendar um bloco de anúncios com playlist sequencial
+
+Para agendar um bloco de anúncios utilizando uma playlist sequencial, basta montar a playlist de anúncios no mesmo local da playlist musical. Ao salvar a playlist, selecione o formato **Playlist seq** e salve com o nome que desejar. **As playlists sequenciais só suportam arquivos de áudio no momento**, outros tipos de faixas não são suportadas.
+
+<p align="center">
+	<img src="Images/SequentialPlaylist.webp" alt="Salvando playlist seq"/>
+</p>
+
+Ao agendar o bloco de anúncios, basta então selecionar **Arquivo de Playlist** como o Tipo do Evento e selecionar a playlist salva.
+
+## Playlists Sequenciais e Rotativas
+
+As playlists sequenciais são um tipo especial de faixa, na qual você pode colocar diversas faixas de áudio e **todas elas tocarão na sequencia salva até que termine a playlist**. São uma opção interessante para criar blocos customizados de anúncios como demonstrado acima.
+
+Outro tipo especial de faixa são as playlists rotativas, você pode criá-las da mesma forma que as playlists sequenciais, mas salve como **Playlist rot**. Estas faixas são ótimas para quando você tem um anunciante com mais de uma versão de seu anúncio ou então diversas vinhetas que você deseja rotacionar. Basta colocar todos em uma playlist rotativa e agendar, dessa forma, **toda vez que a faixa for disparada, ela tocará uma das faixas, alternando entre as faixas salvas na playlist**.
