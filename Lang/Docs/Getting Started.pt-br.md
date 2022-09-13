@@ -183,3 +183,37 @@ Esta opção é muito interessante para rádios que tem diferentes grades musica
 Note que também há tipos de eventos especiais, como **Iniciar Playlist** e **Parar playlist**. Estes eventos simulam um clique no botão de **Play** e **Stop**, respectivamente, para que você possa agendar quando iniciar ou parar a reprodução do player, automatizando ainda mais o seu controle sobre os horários de sua rádio.
 
 # Agendar um programa utilizando as prioridades
+
+Para agendar um programa de rádio já gravado, basta utilizar a mesma forma que se utiliza para agendar um arquivo de áudio normal. Vamos dizer que nós queiramos agendar um programa de esportes que dure de 13:15 a 14:15. No nosso exemplo de 15 em 15 minutos, poderiamos utilizar a ordenação para este ser o primeiro evento a ser disparado, mas ainda assim, os outros eventos de comerciais ainda ficariam acumulados, prejudicando o restante da programação.
+
+Para facilitar uma situação comum que pode acontecer na sua rádio, temos a opção de prioridades. Pegando o exemplo dos nossos blocos de anúncios que saem de 15 em 15 minutos, perceba que em todos eles, na parte de **Ordenação e Prioridade**, todos vem como padrão com a **Prioridade Baixa**.
+
+Podemos então pegar o nosso programa de esportes e em sua prioridade, marcar como **Prioridade Alta**.
+
+<p align="center">
+	<img src="Images/EventHighPriority.png" alt="Prioridade Alta do Evento"/>
+</p>
+
+Dessa forma, todos os eventos que "concorrem" com ele pelo horário serão descartados enquanto ele estiver tocando, sem que você precise criar outra grade de eventos alternativa para encaixar o seu programa.
+
+<p align="center">
+	<img src="Images/UpcomingEventPriority.png" alt="Próximos Eventos com Prioridade Alta"/>
+</p>
+
+Com a opção de Prioridade Alta marcada, o nosso programa de Mesa Redonda muda seu ícone de verde para vermelho na grade de Próximos Eventos. Isso significa que enquanto este estiver sendo reproduzido pelo player, todos os eventos posteriores (os marcados pela caixa vermelha e possíveis outros futuros) serão descartados enquanto o programa estiver tocando.
+
+Note o seguinte, a primeira Locução de Hora das 13:15 ainda tocará e logo em seguida o nosso programa de Mesa Redonda. Isto ocorre pelo seguinte, a ordenação da grade de eventos primeiro vem pelo Horário, logo em seguida se o evento é Imediato ou Atrasado, com prioridade para os Imediatos, e finalmente pela opção de Ordenação. 
+
+Neste caso, se quisermos que nem mesmo a Locução de Hora toque, basta tornar a Mesa Redonda também Imediato e modificar a sua ordenação para ser menor do que a Locução de Hora.
+
+<p align="center">
+	<img src="Images/UpcomingEventPriority2.png" alt="Próximos Eventos com Prioridade Alta"/>
+</p>
+
+# Conclusão
+
+Neste tutorial tivemos uma visão geral de como montar a programação de sua rádio e diversas situações e necessidades comuns que você pode ter durante o uso do Salamandra. Ainda há também muitas configurações e funcionalidades do próprio Salamandra que você pode utilizar para fazer ajustes finos de acordo com a sua necessidade.
+
+Você pode por exemplo programar não somente outra grade musical para ser disparada, mas também outra planilha de eventos para quando houver necessidade de uma programação específica para um dia ou momento. Além do Salamandra, é possível buscar outros tutoriais, como sobre fazer seu computador ligar sozinho, utilizar o Agendador de Tarefas do Windows para iniciar/fechar um programa, entre outras funcionalidades de seu sistema operacional.
+
+Através da criatividade para combinar e configurar seu sistema junto com a versatilidade dos eventos do Salamandra, é possível automatizar a sua rádio de forma que o trabalho manual fique somente para aquilo que seja realmente necessário o seu esforço =)
