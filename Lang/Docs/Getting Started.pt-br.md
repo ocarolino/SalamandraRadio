@@ -1,6 +1,8 @@
 # Primeiros Passos
 
-Olá, se você nunca utilizou o Salamandra, este tutorial é para você! Neste tutorial vamos explorar algumas opções básicas do programa para cumprir as necessidades básicas de qualquer rádio. Este tutorial parte do princípio que você já saiba o mínimo sobre operar qualquer programa em seu computador, explicando apenas o básico sobre as diversas opções do Salamandra.
+Olá! Se você nunca utilizou o Salamandra, este tutorial é pra você. Vamos demonstrar algumas funções do programa para que você possa ter ideia de como cumprir as necessidades básicas de sua rádio. 
+
+Atenção! Aqui partimos do princípio que você já saiba o mínimo sobre operar qualquer software em seu computador, dando apenas uma pincelada geral sobre as diversas opções do Salamandra e de como elas podem se encaixar em contextos práticos da sua rádio.
 
 Os seguintes temas serão explicados nesse tutorial:
 
@@ -8,11 +10,15 @@ Os seguintes temas serão explicados nesse tutorial:
 - [Criar a playlist musical](#criando-a-playlist-musical)
   - [Entendendo a Tela Inicial](#entendendo-a-tela-inicial)
   - [Adicionando faixas à Playlist](#adicionando-faixas-%C3%A0-playlist)
-* Configurar os arquivos de Locução de Hora
-* Agendar um bloco de anúncios com os eventos
-* Agendar um bloco de anúncios com playlist sequencial
-* Agendar uma playlist musical
-* Agendar um programa utilizando as prioridades
+- [Configurar os arquivos de Locução de Hora](#configurando-os-arquivos-de-locução-de-hora)
+- [Agendar um bloco de anúncios com os eventos](#agendar-um-bloco-de-anúncio-com-eventos)
+  - [Agendando as Locuções de Hora](#agendando-as-locu%C3%A7%C3%B5es-de-hora)
+  - [Agendando os anúncios](#agendando-os-an%C3%BAncios)
+    - [Customizando a Ordem dos Eventos](#customizando-a-ordem-dos-eventos) 
+- [Agendar um bloco de anúncios com playlist sequencial](#agendar-um-bloco-de-an%C3%BAncios-com-playlist-sequencial)
+  - [Playlists sequenciais e rotativas](#playlists-sequenciais-e-rotativas)
+- [Agendar uma playlist musical](#agendar-uma-playlist-musical)
+- [Agendar um programa de rádio utilizando as prioridades](#agendar-um-programa-utilizando-as-prioridades)
 
 # Linguagem do Programa
 
