@@ -20,11 +20,11 @@ The following topics will be explained in this tutorial:
 - [Scheduling an music playlist](#agendar-uma-playlist-musical)
 - [Scheduling an radio show with priorities](#agendar-um-programa-utilizando-as-prioridades)
 
-# Linguagem do Programa
+# Changing Salamandra's language
 
-O Salamandra começa por padrão em Inglês, mas tem disponível tradução para Português. Para alterar a língua, acesse o menu **Tools > Settings** ou clique no botão superior de engrenagem e troque de English para Português na janela que se abrir, conforme a animação abaixo.
+Salamandra starts by default in English, but has a Portuguese translation available. To change the language, access the menu **Tools > Settings** or click on the gear button on the toolbar and, in the window that opens, switch from English to Portuguese as shown in the animation below.
 
-**É NECESSÁRIO REINICIAR O PROGRAMA PARA QUE ESTA CONFIGURAÇÃO SEJA APLICADA!**
+**YOU MUST RESTART THE PROGRAM FOR THIS SETTING TO APPLY!**
 
 <p align="center">
 	<img src="Images/ChangingLanguage.webp" alt="Alterando a linguagem do Salamandra"/>
