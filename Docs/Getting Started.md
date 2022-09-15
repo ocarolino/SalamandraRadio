@@ -30,21 +30,21 @@ Salamandra starts by default in English, but has a Portuguese translation availa
 	<img src="Images/ChangingLanguage.webp" alt="Alterando a linguagem do Salamandra"/>
 </p>
 
-# Criando a playlist musical
+# Creating a playlist with your music
 
-## Entendendo a Tela Inicial
+## Understanding the Main Window
 
-Antes de começar a explicar como fazer a sua programação musical, vamos a uma breve descrição da tela inicial do Salamandra.
+Before starting to explain how to make your music playlist, let's go through a brief description of Salamandra's main window.
 
 <p align="center">
-	<img src="Images/MainWindow.png" alt="Tela Principal"/>
+	<img src="Images/MainWindow.png" alt="Main Window"/>
 </p>
 
-* 1 - **Menu Principal e Barra de Ferramentas** - Onde você poderá acessar as diversas funções do programa separadas em categorias.
-* 2 - **Cabeçalho do Player** - Onde você poderá ver o horário, a faixa que está sendo reproduzida no momento e a próxima faixa.  
-* 3 - **Planilha de Eventos** - Onde você poderá ver os próximos eventos que serão reproduzidos e também acessar o agendador de eventos.
-* 4 - **Playlist** - Onde você poderá colocar as faixas que serão tocadas na sua rádio.
-* 5 - **Controles do Player** - Controles do player, volume, modo da playlist e posição da faixa atual.
+* 1 - **Main Menu and Toolbar** - Where you can access the functions of the program split into categories.
+* 2 - **Player Header** - Where you can see the time, the track that is currently playing and the next track.  
+* 3 - **Events Playlist** - Where you will be able to see upcoming events that will be played and also access the event scheduler.
+* 4 - **Playlist** - Where you can put the tracks that will be played on your radio.
+* 5 - **Player Controls** - Player controls, volume, playlist mode and current track position.
 
 ## Adicionando faixas à Playlist
 
