@@ -74,49 +74,49 @@ The files must be in the following format:  **HRSxx** and **MINxx**, where **xx*
 
 The audio files for time announcement can be in any of the audio formats supported by Salamandra.
 
-# Agendar um bloco de anúncio com eventos
+# Scheduling advertisement blocks with Events
 
-A forma mais fácil de montar uma programação de bloco de anúncios ou agendar qualquer outra ação do player é através do agendador de eventos. Logo acima da **Planilha de Eventos**, clique no botão de calendário. Será aberta então a seguinte janela:
+The easiest way to set up the advertisements blocks or schedule any other player action is through the event scheduler. Just above the **Events Playlist**, click on the calendar button. The following window will then open:
 
 <p align="center">
-	<img src="Images/EventListWindow.png" alt="Agendador de Eventos"/>
+	<img src="Images/EventListWindow.png" alt="Events Scheduler"/>
 </p>
 
-Esta janela mostra todos os seus eventos cadastrados, permitindo que você crie, edite ou exclua eventos.
+This window shows all your scheduled events, allowing you to create, edit or delete them.
 
-## Agendando as Locuções de Hora
+## Scheduling Time Announcements
 
-Vamos criar então alguns eventos de Locução de Hora que serão disparados de 15 em 15 minutos, para servir de abertura do nosso bloco de anúncios. Clique em **Novo** e siga os seguintes passos:
+So let's create some Time Announcement events that will fire every 15 minutes, to serve as the opening of our ad blocks. Click **New** and follow these steps:
 
 <p align="center">
 	<img src="Images/SchedulingTimeAnnouncements.webp" alt="Agendando Locuções de Hora"/>
 </p>
 
-Como pode notar, teremos ao fim quatro eventos que serão disparados aos minutos 00, 15, 30 e 45. Vamos a uma explicação então do agendamento destes.
+As you can see, we will end up with four events that will be triggered at 00, 15, 30 and 45 minutes. Let's go to an explanation of the scheduling of these.
 
 <p align="center">
 	<img src="Images/EventWindow_DateAndTime.png" alt="Data e Hora no Agendamento de Evento"/>
 </p>
 
-Em **Data e Hora de Início**, colocamos o horário do evento e logo em seguida, a primeira opção a ter sido marcada foi a opção **Imediato**. Esta opção significa que o evento entrará exatamente no horário agendado - **isso significa que qualquer música que esteja tocando será cortada para a entrada do evento**. Se você deseja que a música toque até o final para depois dela o evento ser reproduzido, não marque esta opção!
+In **Starting date and time**, we put the time of when we want the event to start, and then, we check the option **Immediate**. This means that the event will start exactly at the scheduled time - **this means that any track that is playing will be stopped so that the event can start**. If you want the event to wait until the current track ends, don't check this option!
 
 <p align="center">
 	<img src="Images/EventWindow_TimeAndDays.png" alt="Horários e Dias no Agendamento de Evento"/>
 </p>
 
-Vamos então a explicação da opção **Horários e Dias**. Quando marcamos **Outros Horários**, indicamos ao Salamandra que queremos que o evento toque em mais horários do que o configurado inicialmente (17:00:00). Podemos então marcar as horas, neste caso de 08h até 19h, que o evento será disparado. Caso você deseje que o evento toque apenas em um horário específico, não marque esta opção. 
+So let's explain the option **Time and days**. When we check **Other hours**, we indicate to Salamandra that we want the event to play at more times than initially configured (16:00:00). We can then set the hours, in this case from 08:00 to 19:00, that the event will be triggered. If you only want the event to play at a specific time, do not check this option.
 
-Note que o horário original muda para (__:00:00), isto significa que o evento tocará em todos os horários selecionados aos zero minutos e zero segundos, 8:00:00, 9:00:00, 10:00:00, etc.
+Note that the starting time changes to (__:00:00), this means the event will play at all selected times at zero minutes and zero seconds, 8:00:00, 9:00:00, 10:00:00, etc.
 
-Já a opção **Dias da Semana**, torna o agendamento do evento periódico, assim como a opção anterior. Quando você marca esta opção, você indica ao Salamandra que deseja que o evento toque em mais dias do que só o configurado em **Data e Hora de Início**. Caso você deseje que o evento toque apenas em um único dia específico, não marque esta opção!
+The **Week Days** option makes scheduling the event periodic, just like the previous option. When you check this option, we indicate to Salamandra that we want the event to play on more days than just the one configured in **Starting date and time**. If you only want the event to play on a single specific day, do not check this option!
 
 <p align="center">
 	<img src="Images/EventWindow_EventType.png" alt="Tipo do Evento no Agendamento de Evento"/>
 </p>
 
-Após isto, basta selecionar o **Tipo de Evento**. Para as locuções de hora, basta nós selecionarmos **Locução de Hora**. Para arquivos de áudio, como veremos em seguida, devemos clicar no botão [...] e selecionar o arquivo que desejamos.
+After that, we just need to set the **Event Type**. For time announcements, we simply select **Time Announcement**. For audio files, as we will see later, we must click on the [...] button and select the file we want.
 
-Para finalizar, como queremos que os eventos toquem de 15 em 15 minutos, basta copiar e colar o evento original e apenas trocar a minutagem de acordo.
+Finally, as we want the events to play every 15 minutes, we just need to copy and paste the original event and change the time accordingly.
 
 ## Agendando os anúncios
 
