@@ -27,9 +27,7 @@ O Salamandra começa por padrão em Inglês, mas tem disponível tradução para
 **É NECESSÁRIO REINICIAR O PROGRAMA PARA QUE ESTA CONFIGURAÇÃO SEJA APLICADA!**
 
 <p align="center">
-	<a href="Images/ChangingLanguage.webp">
-		<img src="Images/ChangingLanguage.webp" alt="Alterando a linguagem do Salamandra"/>
-	</a>
+	<img src="Images/ChangingLanguage.webp" alt="Alterando a linguagem do Salamandra"/>
 </p>
 
 # Criando a playlist musical
@@ -178,27 +176,27 @@ Ao agendar o bloco de anúncios, basta então selecionar **Arquivo de Playlist**
 
 As playlists sequenciais são um tipo especial de faixa, na qual você pode colocar diversas faixas de áudio e **todas elas tocarão na sequencia salva até que termine a playlist**. São uma opção interessante para criar blocos customizados de anúncios como demonstrado acima.
 
-Outro tipo especial de faixa são as playlists rotativas, você pode criá-las da mesma forma que as playlists sequenciais, mas salve como **Playlist rot**. Estas faixas são ótimas para quando você tem um anunciante com mais de uma versão de seu anúncio ou então diversas vinhetas que você deseja rotacionar. Basta colocar todos em uma playlist rotativa e agendar, dessa forma, **toda vez que a faixa for disparada, ela tocará uma das faixas, alternando entre as faixas salvas na playlist**.
+Outro tipo especial de faixa são as playlists rotativas, nas quais **toda vez que ela for disparada, ela tocará somente uma das faixas de áudio, alternando entre as faixas salvas na playlist**. Você pode criá-las da mesma forma que as playlists sequenciais, mas salve como **Playlist rot**. Estas faixas são ótimas para quando você tem um anunciante com mais de uma versão de seu anúncio ou então diversas vinhetas que você deseja rotacionar.
 
 # Agendar uma playlist musical
 
-Aproveitando o assunto de playlists, para agendar uma playlist musical basta da mesma forma selecionar **Arquivo de Playlist** como o Tipo do Evento e agendar a sua playlist.
+Aproveitando o assunto de playlists, para agendar uma playlist musical selecione **Arquivo de Playlist** como o Tipo do Evento e agendar a sua playlist. Para arquivos do tipo m3u ou lst, isto fará a grade músical ser trocada pela nova indicada no evento.
 
 <p align="center">
 	<img src="Images/SchedulingPlaylist.png" alt="Agendando playlist m3u"/>
 </p>
 
-Esta opção é muito interessante para rádios que tem diferentes grades musicais durante o dia, ou diferentes grades por dia da semana. Basta montar e agendar suas playliste de acordo com os dias e horários desejados para tornar a troca da grade musical mais fácil.
+Esta opção é muito interessante para rádios que tem diferentes grades musicais durante o dia, ou diferentes grades por dia da semana. Basta montar e agendar suas playlists de acordo com os dias e horários desejados para tornar a troca da grade musical mais fácil.
 
 Note que também há tipos de eventos especiais, como **Iniciar Playlist** e **Parar playlist**. Estes eventos simulam um clique no botão de **Play** e **Stop**, respectivamente, para que você possa agendar quando iniciar ou parar a reprodução do player, automatizando ainda mais o seu controle sobre os horários de sua rádio.
 
 # Agendar um programa utilizando as prioridades
 
-Para agendar um programa de rádio já gravado, basta utilizar a mesma forma que se utiliza para agendar um arquivo de áudio normal. Vamos dizer que nós queiramos agendar um programa de esportes que dure de 13:15 a 14:15. No nosso exemplo de 15 em 15 minutos, poderiamos utilizar a ordenação para este ser o primeiro evento a ser disparado, mas ainda assim, os outros eventos de comerciais ainda ficariam acumulados, prejudicando o restante da programação.
+Para agendar um programa de rádio já gravado, basta utilizar a mesma forma que se utiliza para agendar um arquivo de áudio normal. Vamos dizer que nós queiramos agendar um programa de esportes que dure de 13:15 a 14:15. 
 
-Para facilitar uma situação comum que pode acontecer na sua rádio, temos a opção de prioridades. Pegando o exemplo dos nossos blocos de anúncios que saem de 15 em 15 minutos, perceba que em todos eles, na parte de **Ordenação e Prioridade**, todos vem como padrão com a **Prioridade Baixa**.
+No nosso exemplo de blocos comerciais de 15 em 15 minutos, poderiamos utilizar a ordenação para este ser o primeiro evento a ser disparado, mas ainda assim, os outros eventos de comerciais ainda ficariam acumulados, prejudicando o restante da programação.
 
-Podemos então pegar o nosso programa de esportes e em sua prioridade, marcar como **Prioridade Alta**.
+Para lidar com essa situação comum que pode acontecer na sua rádio, temos a opção de prioridades. Perceba que nos eventos que agendamos até aqui, todos eles, na parte de **Ordenação e Prioridade**, vem como padrão com a **Prioridade Baixa**. Podemos então pegar o nosso programa de esportes e marcar como **Prioridade Alta**.
 
 <p align="center">
 	<img src="Images/EventHighPriority.png" alt="Prioridade Alta do Evento"/>
@@ -210,9 +208,9 @@ Dessa forma, todos os eventos que "concorrem" com ele pelo horário serão desca
 	<img src="Images/UpcomingEventPriority.png" alt="Próximos Eventos com Prioridade Alta"/>
 </p>
 
-Com a opção de Prioridade Alta marcada, o nosso programa de Mesa Redonda muda seu ícone de verde para vermelho na grade de Próximos Eventos. Isso significa que enquanto este estiver sendo reproduzido pelo player, todos os eventos posteriores (os marcados pela caixa vermelha e possíveis outros futuros) serão descartados enquanto o programa estiver tocando.
+Com a opção de Prioridade Alta marcada, o nosso programa de Mesa Redonda muda seu ícone de **verde para vermelho** na grade de Próximos Eventos. Isso significa que enquanto este estiver sendo reproduzido pelo player, **todos os eventos posteriores (os marcados pela caixa vermelha e outros que possam surgir quando virar a hora) serão descartados enquanto o programa estiver tocando.**
 
-Note o seguinte, a primeira Locução de Hora das 13:15 ainda tocará e logo em seguida o nosso programa de Mesa Redonda. Isto ocorre pelo seguinte, a ordenação da grade de eventos primeiro vem pelo Horário, logo em seguida se o evento é Imediato ou Atrasado, com prioridade para os Imediatos, e finalmente pela opção de Ordenação. 
+Note o seguinte, a primeira Locução de Hora das 13:15 ainda tocará e logo em seguida o nosso programa de Mesa Redonda. Isto ocorre pelo seguinte: a ordenação da grade de eventos primeiro vem pelo **Horário**, logo em seguida se o evento é **Imediato ou Atrasado**, com prioridade para os Imediatos, e finalmente pela opção de **Ordenação**. 
 
 Neste caso, se quisermos que nem mesmo a Locução de Hora toque, basta tornar a Mesa Redonda também Imediato e modificar a sua ordenação para ser menor do que a Locução de Hora.
 
