@@ -46,33 +46,33 @@ Before starting to explain how to make your music playlist, let's go through a b
 * 4 - **Playlist** - Where you can put the tracks that will be played on your radio.
 * 5 - **Player Controls** - Player controls, volume, playlist mode and current track position.
 
-## Adicionando faixas à Playlist
+## Adding tracks to the playlist
 
-Para adicionar faixas a playlist, você pode utilizar o menu **Playlist**, onde você terá a opção de adicionar os diversos tipos de faixa suportados pelo Salamandra, como faixas de áudio, locuções de hora ou arquivos aleatórios. 
+To add tracks to the playlist, you can use the menu **Playlist**, where you'll have the option to add the various track types supported by Salamandra, such as audio tracks, time announcements or random files.
 
-É possível também arrastar arquivos direto do explorador de arquivos do sistema para a sua playlist. As faixas da playlist também podem ser reordenadas arrastando e soltando, para que você possa fazer colocar as músicas na ordem que deseja.
+You can also drag and drop files from your system file explorer to your playlist. Playlist tracks can also be reordered by dragging and dropping, so you can put the songs in the order you want.
 
 <p align="center">
 	<img src="Images/PlaylistDragDrop.webp" alt="Adicionando arquivos do explorador na playlist"/>
 </p>
 
-Para manter uma playlist já montada salva, basta utilizar o menu **Arquivo > Salvar** ou o botão de disquete na Barra de Ferramentas. Para abrir uma playlist salva, basta utilizar o menu **Arquivo > Abrir** ou o botão de pasta na Barra de Ferramentas.
+To save your playlists, you can use the menu **File > Save** or the floppy disk button on the Toolbar. To open an saved playlist, just use the **File > Open** menu or the folder button on the Toolbar.
 
-Após montar a playlist, basta utilizar os **Controles do Player** para começar a tocar as suas músicas. Teste também os diversos modos da playlist, para ver as formas que o Salamandra define a próxima faixa a tocar.
+After creating your playlist, you can use the **Player Controls** to start the playback. Don't forget to try all the playlist modes, so that you can know all the ways that Salamandra sets the next track.
 
-# Configurando os arquivos de Locução de Hora
+# Setting Time Announcement files path
 
-Para configurar os arquivos de Locução de Hora, basta acessar o menu **Ferramentas > Configurações** ou o botão de engrenagem na Barra de Ferramentas. Você então terá acesso a janela de Configurações.
+To set the Time Annoucement files path, you can access the menu **Tools > Settings** or click on the gear button on the toolbar. 
 
-Logo no fim da tela, você verá a opção **Caminho para arquivos de Locução de Horário**, basta clicar no botão [...] e selecionar a pasta onde estão seus arquivos de horário.
+In the Settings window, you will see at the bottom of the screen the option **Time Announcement files path**. Just click the [...] button and select the folder where your time announcement files are.
 
 <p align="center">
 	<img src="Images/SettingsWindow.png" alt="Tela de Configuração"/>
 </p>
 
-Os arquivos devem estar no seguinte formato: **HRSxx** e **MINxx**, onde o **xx** representa um número indicando o tempo. Um arquivo para 8h da manhã, por exemplo, seria **HRS08**, para o minuto 59, seria **MIN59**. Estes arquivos então são automaticamente combinados pelo Salamandra para indicar a hora nas faixas de Locução de Hora.
+The files must be in the following format:  **HRSxx** and **MINxx**, where **xx** is an number indicating the time. A file for 8 am, for example, would be **HRS08**, for minute 59, it would be **MIN59**. These files are then automatically combined by Salamandra to indicate the time in the Time Announcement tracks.
 
-Os arquivos de locução de hora podem estar em qualquer um dos formatos de áudio suportados pelo Salamandra.
+The audio files for time announcement can be in any of the audio formats supported by Salamandra.
 
 # Agendar um bloco de anúncio com eventos
 
