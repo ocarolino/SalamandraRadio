@@ -190,29 +190,29 @@ This option is very interesting for radio stations that have different music pla
 
 Note that there are also special event types such as **Start Playback** and **Stop Playback**. These events simulate a click on the **Play** and **Stop** buttons, respectively, so you can schedule when to start or stop the player, further automating your control over your radio's schedules.
 
-# Agendar um programa utilizando as prioridades
+# Scheduling an radio show with priorities
 
-Para agendar um programa de rádio já gravado, basta utilizar a mesma forma que se utiliza para agendar um arquivo de áudio normal. Vamos dizer que nós queiramos agendar um programa de esportes que dure de 13:15 a 14:15. 
+To schedule an already recorded radio show, just use the same way as to schedule a normal audio file. Let's say we want to schedule a sports program that runs from 1:15 pm to 2:15 pm.
 
-No nosso exemplo de blocos comerciais de 15 em 15 minutos, poderiamos utilizar a ordenação para este ser o primeiro evento a ser disparado, mas ainda assim, os outros eventos de comerciais ainda ficariam acumulados, prejudicando o restante da programação.
+In our example of ads blocks every 15 minutes, we could use ordering for our show to be the first event to be triggered, but the other events would still accumulate, causing problems in our schedule.
 
-Para lidar com essa situação comum que pode acontecer na sua rádio, temos a opção de prioridades. Perceba que nos eventos que agendamos até aqui, todos eles, na parte de **Ordenação e Prioridade**, vem como padrão com a **Prioridade Baixa**. Podemos então pegar o nosso programa de esportes e marcar como **Prioridade Alta**.
+To deal with this situation that can happen on your radio, we have the priority option. Note that in the events we have scheduled so far, all of them, in the **Order and Priority** part, default to **Low Priority**. We can then take our sports program and mark it as **High Priority**.
 
 <p align="center">
 	<img src="Images/EventHighPriority.png" alt="Prioridade Alta do Evento"/>
 </p>
 
-Dessa forma, todos os eventos que "concorrem" com ele pelo horário serão descartados enquanto ele estiver tocando, sem que você precise criar outra grade de eventos alternativa para encaixar o seu programa.
+That way, all the others events that share the same time will be discarded while our show it's playing, without you having to create an alternative event schedule list to deal with this situation.
 
 <p align="center">
 	<img src="Images/UpcomingEventPriority.png" alt="Próximos Eventos com Prioridade Alta"/>
 </p>
 
-Com a opção de Prioridade Alta marcada, o nosso programa de Mesa Redonda muda seu ícone de **verde para vermelho** na grade de Próximos Eventos. Isso significa que enquanto este estiver sendo reproduzido pelo player, **todos os eventos posteriores (os marcados pela caixa vermelha e outros que possam surgir quando virar a hora) serão descartados enquanto o programa estiver tocando.**
+With the High Priority option checked, our Sports Talk Show changes its icon from **green to red** in the Upcoming Events list. This means that while it is being played, **all later events (those marked by the red box and others that may appear when the time is turned) will be discarded.**
 
-Note o seguinte, a primeira Locução de Hora das 13:15 ainda tocará e logo em seguida o nosso programa de Mesa Redonda. Isto ocorre pelo seguinte: a ordenação da grade de eventos primeiro vem pelo **Horário**, logo em seguida se o evento é **Imediato ou Atrasado**, com prioridade para os Imediatos, e finalmente pela opção de **Ordenação**. 
+As you can imagine, the first 1:15 pm Time Announcement will still play and soon after our talk show. This is due to the following: the sorting of the event grid first comes by **Time**, then if the event is **Immediate or Delayed**, with priority for Immediate, and finally by the option of **Queue order**.
 
-Neste caso, se quisermos que nem mesmo a Locução de Hora toque, basta tornar a Mesa Redonda também Imediato e modificar a sua ordenação para ser menor do que a Locução de Hora.
+In this case, if we don't want even the Time Announcement to play, just make the talk show also Immediate and modify its ordering to be smaller than the Time Announcement, as we did before with the ads.
 
 <p align="center">
 	<img src="Images/UpcomingEventPriority2.png" alt="Próximos Eventos com Prioridade Alta"/>
