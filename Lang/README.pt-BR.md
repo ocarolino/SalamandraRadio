@@ -90,6 +90,8 @@ Caso você considere-o útil para sua rádio ou trabalho de alguma forma e desej
 
 <p align="center">
 	<a href="https://mpago.la/1JnX3bx">
-		<img src="../Readme/mercado-pago-logo.png"  width="112" alt="Mercado Pago">
+		<img src="../Readme/mercado-pago-logo.png" alt="Mercado Pago">
 	</a>
 </p>
+
+Antes de fazer qualquer contribuição, entenda que esta é apenas uma forma simbólica de mostrar sua apreciação por este projeto. Não há qualquer promessa de garantia, suporte, atenção a requisição de novas funcionalidades ou qualquer obrigação entre mim (desenvolvedor) e você (usuário) através de uma contribuição.
