@@ -218,10 +218,16 @@ In this case, if we don't want even the Time Announcement to play, just make the
 	<img src="Images/UpcomingEventPriority2.png" alt="Próximos Eventos com Prioridade Alta"/>
 </p>
 
-# Conclusão
+# Conclusion
 
 Neste tutorial tivemos uma visão geral de como montar a programação de sua rádio e diversas situações e necessidades comuns que você pode ter durante o uso do Salamandra. Ainda há também muitas configurações e funcionalidades do próprio Salamandra que você pode utilizar para fazer ajustes finos de acordo com a sua necessidade.
 
 Você pode por exemplo programar não somente outra grade musical para ser disparada, mas também outra planilha de eventos para quando houver necessidade de uma programação específica para um dia ou momento. Além do Salamandra, é possível buscar outros tutoriais, como sobre fazer seu computador ligar sozinho, utilizar o Agendador de Tarefas do Windows para iniciar/fechar um programa, entre outras funcionalidades de seu sistema operacional.
 
 Através da criatividade para combinar e configurar seu sistema junto com a versatilidade dos eventos do Salamandra, é possível automatizar a sua rádio de forma que o trabalho manual fique somente para aquilo que seja realmente necessário o seu esforço =)
+
+In this tutorial we had an overview of how to set up your radio schedule and common situations and needs that you may have while using Salamandra. There are also many settings and features of Salamandra that you can use to make fine adjustments according to your needs.
+
+You can, for example, schedule not only another musical playlist to be triggered, but also another event schedule list for when there is a need for a specific schedule for a day or time frame. In addition to Salamandra, you can search for other tutorials, such as how to make your computer turn on an schedule, use the Windows Task Scheduler to start/close a program, among other features of your operating system.
+
+Through the creativity to combine and configure your system along with the versatility of Salamandra events, it is possible to automate your radio so that your efforts is only used where the handwork is really necessary =)
