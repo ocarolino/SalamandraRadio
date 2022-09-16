@@ -29,7 +29,10 @@
 # Primeiros Passos
 Você pode baixar o último release, descompactar e abrir o **Salamandra.exe**. Não há a necessidade de instalação ou configurações extras.
 
-Nós ainda não temos um tutorial, mas o Salamandra foi desenvolvido de forma a ser intuitivo, com todas as funções escritas de uma maneira clara. Você também pode colocar o cursor do mouse em qualquer opção e ler uma breve explicação do que ela faz.
+We have a [Getting Started tutorial](Docs/Getting Started.md) where you can see an overview of Salamandra features. But even for functionalities not explained yet, Salamandra is designed to be intuitive, with all relevant functions written in a clear manner. You can also put the cursor on top of any option and read an explanation of what it does.
+
+
+Nós temos um [tutorial de Primeiros Passos](Lang/Docs/Getting Started.pt-BR.md), onde você pode ter uma visão geral das funcionalidades do Salamandra. Mas mesmo para funcionalidades que ainda não tem um tutorial, o Salamandra foi desenvolvido de forma a ser intuitivo, com todas as funções escritas de uma maneira clara. Você também pode colocar o cursor do mouse em qualquer opção e ler uma breve explicação do que ela faz.
 
 # Screenshots
 
