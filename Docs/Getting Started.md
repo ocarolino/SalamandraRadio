@@ -118,45 +118,45 @@ After that, we just need to set the **Event Type**. For time announcements, we s
 
 Finally, as we want the events to play every 15 minutes, we just need to copy and paste the original event and change the time accordingly.
 
-## Agendando os anúncios
+## Scheduling Advertisements
 
-Vamos então agendar alguns anúncios para demonstrar. Para que a animação seja breve, vamos programar todos apenas para disparar no bloco dos 45 minutos. 
+Now, let's schedule some ads. To make the animation brief, we will schedule all of them to fire on the 45-minute block.
 
-Se você deseja que seus anúncios disparem em outros minutos, basta então copiar e colar, assim como fizemos com as Locuções de Hora.
+If you want your ads to fire in other minutes, then just copy and paste, just like we did with Time Announcements.
 
 <p align="center">
 	<img src="Images/SchedulingAds.webp" alt="Agendando Anúncios"/>
 </p>
 
-As diferenças de um agendamento para outro são poucas. Para agendar os anúncios, nós apenas não marcamos a caixa **Imediato**, já que os anúncios não devem cortar as músicas, nem um anúncio cortar o outro. O bloco será disparado pela **Locução de Hora**, esta sim que terá seu disparo no modo imediato.
+Here we didn't check the **Immediate** box, as the ads must not cut the music, nor should one ad cut the other. The block will be triggered by the **Time Announcement**, which will start immediatelly, with the ads following after.
 
-Também diferente da Locução de Hora, para arquivos de áudio temos que obrigatoriamente selecionar o arquivo que será reproduzido pelo player.
+Other difference from the Time Annoucement, is that for Audio Files we have to choose the file that will be played by the player.
 
-Você deve notar que a Planilha de Próximos Eventos deve ficar da seguinte forma, ou parecida:
+Your Upcoming Events list should look like this, or similar:
 
 <p align="center">
 	<img src="Images/UpcomingEventOrder1.png" alt="Próximos Eventos - Sem Ordenação"/>
 </p>
 
-### Customizando a Ordem dos Eventos
+### Setting event order on Upcoming Events queue
 
-Algo que pode acontecer em diversas rádios é ter anunciantes do mesmo segmento, em nosso exemplo, os dois mercados, e não é interessante anunciar eles um atrás do outro. Para evitar isso, podemos utilizar a opção **Ordem do Evento na Fila**. 
+Something that can happen in your radio station is to have advertisers from the same segment, in our example, two markets (*mercado*), and playing them one after the other may not be the best practice. To avoid this, we can use the **Queue order** option.
 
-A ordem do evento é um número que varia de **0 a 99**, com todos os eventos iniciando em **50**. Para eventos que compartilham o mesmo horário, neste caso 10:45:00, esta é uma opção para customizar a ordem deles de acordo com a sua vontade. Podemos então pegar um dos mercados, neste caso o **Mercado 24 Horas** e modificar este valor.
+The queue order is a number ranging from **0 to 99**, with all events starting at **50**. For events that share the same time, in this case 12:45:00, this is an option to customize their order according to your wishes. We can then take one of the markets, in this case the **Mercado 24 Horas** and modify this value.
 
 <p align="center">
 	<img src="Images/EventWindow_Order.png" alt="Ordenação do Evento"/>
 </p>
 
- Como os dois mercados estão na posição inferior na grade, devemos então mudar um deles para qualquer número menor que 50, neste caso 49, e confirmar. Assim, "puxamos" o anúncio para o topo do bloco, se fosse o contrário, colocariamos um número maior que 50, "empurrando" o anúncio para baixo.
+As both markets are at the bottom of the list, we must then change one of them to any number less than 50, in this case 49, and confirm. Thus, we "pull" the ad to the top of the block, otherwise we would place a number greater than 50, "pushing" the ad down.
 
-Após essa alteração, os eventos então serão reposicionados na fila de Próximos Eventos, ficando desta forma:
+After this change, the events will then be repositioned in the Upcoming Events queue, looking like this:
 
 <p align="center">
 	<img src="Images/UpcomingEventOrder2.png" alt="Próximos Eventos - Pós Ordenação"/>
 </p>
 
-Assim conseguimos evitar que anúncios de concorrentes sejam anunciados um seguidos do outro, com um maior controle do nosso bloco de anunciantes.
+In this way, we are able to prevent competitors' ads from being announced one after the other, with greater control of our block of advertisers.
 
 # Agendar um bloco de anúncios com playlist sequencial
 
