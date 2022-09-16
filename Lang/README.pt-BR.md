@@ -84,8 +84,12 @@ Neste momento, o que precisamos é de testes. Todas as funcionalidades são esta
 
 ## Doações
 
-O Salamandra é um software completamente gratuito, você não precisa pagar de forma alguma para usá-lo na totalidade de suas funções. Porém, ele é um software desenvolvido no meu tempo livre como um hobby para praticar programação. Caso você considere-o útil para sua rádio ou trabalho de alguma forma e deseje fazer uma contribuição monetária, sinta-se livre para contribuir com um valor simbólico de R$ 50,00 através dos links abaixo:
+O Salamandra é um software completamente gratuito, você não precisa pagar de forma alguma para usá-lo na totalidade de suas funções. Porém, ele é um software desenvolvido no meu tempo livre como um hobby para praticar programação. 
 
-<a href="https://mpago.la/1JnX3bx">
-	<img src="https://http2.mlstatic.com/frontend-assets/mp-web-navigation/ui-navigation/5.19.1/mercadopago/logo__large.png"  width="112" alt="Mercado Pago">
-</a>
+Caso você considere-o útil para sua rádio ou trabalho de alguma forma e deseje fazer uma contribuição monetária, sinta-se livre para contribuir com um valor simbólico de R$ 50,00 através dos links abaixo:
+
+<p align="center">
+	<a href="https://mpago.la/1JnX3bx">
+		<img src="../Readme/mercado-pago-logo.png"  width="112" alt="Mercado Pago">
+	</a>
+</p>
