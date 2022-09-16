@@ -86,51 +86,6 @@ Neste momento, o que precisamos é de testes. Todas as funcionalidades são esta
 
 O Salamandra é um software completamente gratuito, você não precisa pagar de forma alguma para usá-lo na totalidade de suas funções. Porém, ele é um software desenvolvido no meu tempo livre como um hobby para praticar programação. Caso você considere-o útil para sua rádio ou trabalho de alguma forma e deseje fazer uma contribuição monetária, sinta-se livre para contribuir com um valor simbólico de R$ 50,00 através dos links abaixo:
 
-<script src="https://www.mercadopago.com.br/integrations/v1/web-payment-checkout.js"data-preference-id="246242802-8d66f19d-86b9-4ab1-8371-647e6f86c514" data-source="button"></script>
-
-<div id="smart-button-container">
-      <div style="text-align: center;">
-        <div id="paypal-button-container"></div>
-      </div>
-    </div>
-  <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=BRL" data-sdk-integration-source="button-factory"></script>
-  <script>
-    function initPayPalButton() {
-      paypal.Buttons({
-        style: {
-          shape: 'pill',
-          color: 'blue',
-          layout: 'horizontal',
-          label: 'paypal',
-          
-        },
-
-        createOrder: function(data, actions) {
-          return actions.order.create({
-            purchase_units: [{"description":"Salamandra - Contribuição","amount":{"currency_code":"BRL","value":50}}]
-          });
-        },
-
-        onApprove: function(data, actions) {
-          return actions.order.capture().then(function(orderData) {
-            
-            // Full available details
-            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
-
-            // Show a success message within this page, e.g.
-            const element = document.getElementById('paypal-button-container');
-            element.innerHTML = '';
-            element.innerHTML = '<h3>Thank you for your payment!</h3>';
-
-            // Or go to another URL:  actions.redirect('thank_you.html');
-            
-          });
-        },
-
-        onError: function(err) {
-          console.log(err);
-        }
-      }).render('#paypal-button-container');
-    }
-    initPayPalButton();
-  </script>
+<a href="https://mpago.la/1JnX3bx">
+	<img src="https://http2.mlstatic.com/frontend-assets/mp-web-navigation/ui-navigation/5.19.1/mercadopago/logo__large.png"  width="112" alt="Mercado Pago">
+</a>
