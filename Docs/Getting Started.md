@@ -6,19 +6,19 @@ Heads up! Here we assume that you already know the least about operating any sof
 
 The following topics will be explained in this tutorial:
 
-- [Changing Salamandra's language](#linguagem-do-programa)
-- [Creating a playlist with your music](#criando-a-playlist-musical)
-  - [Understanding the Main Window](#entendendo-a-tela-inicial)
-  - [Adding tracks to the playlist](#adicionando-faixas-%C3%A0-playlist)
-- [Setting Time Announcement files path](#configurando-os-arquivos-de-locução-de-hora)
-- [Scheduling advertisement blocks with Events](#agendar-um-bloco-de-anúncio-com-eventos)
-  - [Scheduling Time Announcements](#agendando-as-locu%C3%A7%C3%B5es-de-hora)
-  - [Scheduling Advertisements](#agendando-os-an%C3%BAncios)
-    - [Setting event order on Upcoming Events queue](#customizando-a-ordem-dos-eventos) 
-- [Scheduling advertisement blocks with Sequential Playlist](#agendar-um-bloco-de-an%C3%BAncios-com-playlist-sequencial)
-  - [Sequential and rotation playlists](#playlists-sequenciais-e-rotativas)
-- [Scheduling a music playlist](#agendar-uma-playlist-musical)
-- [Scheduling an radio show with priorities](#agendar-um-programa-utilizando-as-prioridades)
+- [Changing Salamandra's language](#changing-salamandras-language)
+- [Creating a playlist with your music](#creating-a-playlist-with-your-music)
+  - [Understanding the Main Window](#understanding-the-main-window)
+  - [Adding tracks to the playlist](#adding-tracks-to-the-playlist)
+- [Setting Time Announcement files path](#setting-time-announcement-files-path)
+- [Scheduling advertisement blocks with Events](#scheduling-advertisement-blocks-with-events)
+  - [Scheduling Time Announcements](#scheduling-time-announcements)
+  - [Scheduling Advertisements](#scheduling-advertisements)
+    - [Setting event order on Upcoming Events queue](#setting-event-order-on-upcoming-events-queue) 
+- [Scheduling advertisement blocks with Sequential Playlist](#scheduling-advertisement-blocks-with-sequential-playlist)
+  - [Sequential and rotation playlists](#sequential-and-rotation-playlists)
+- [Scheduling a music playlist](#scheduling-a-music-playlist)
+- [Scheduling an radio show with priorities](#scheduling-an-radio-show-with-priorities)
 
 # Changing Salamandra's language
 
@@ -219,12 +219,6 @@ In this case, if we don't want even the Time Announcement to play, just make the
 </p>
 
 # Conclusion
-
-Neste tutorial tivemos uma visão geral de como montar a programação de sua rádio e diversas situações e necessidades comuns que você pode ter durante o uso do Salamandra. Ainda há também muitas configurações e funcionalidades do próprio Salamandra que você pode utilizar para fazer ajustes finos de acordo com a sua necessidade.
-
-Você pode por exemplo programar não somente outra grade musical para ser disparada, mas também outra planilha de eventos para quando houver necessidade de uma programação específica para um dia ou momento. Além do Salamandra, é possível buscar outros tutoriais, como sobre fazer seu computador ligar sozinho, utilizar o Agendador de Tarefas do Windows para iniciar/fechar um programa, entre outras funcionalidades de seu sistema operacional.
-
-Através da criatividade para combinar e configurar seu sistema junto com a versatilidade dos eventos do Salamandra, é possível automatizar a sua rádio de forma que o trabalho manual fique somente para aquilo que seja realmente necessário o seu esforço =)
 
 In this tutorial we had an overview of how to set up your radio schedule and common situations and needs that you may have while using Salamandra. There are also many settings and features of Salamandra that you can use to make fine adjustments according to your needs.
 
