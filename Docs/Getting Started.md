@@ -17,7 +17,7 @@ The following topics will be explained in this tutorial:
     - [Setting event order on Upcoming Events queue](#customizando-a-ordem-dos-eventos) 
 - [Scheduling advertisement blocks with Sequential Playlist](#agendar-um-bloco-de-an%C3%BAncios-com-playlist-sequencial)
   - [Sequential and rotation playlists](#playlists-sequenciais-e-rotativas)
-- [Scheduling an music playlist](#agendar-uma-playlist-musical)
+- [Scheduling a music playlist](#agendar-uma-playlist-musical)
 - [Scheduling an radio show with priorities](#agendar-um-programa-utilizando-as-prioridades)
 
 # Changing Salamandra's language
@@ -135,7 +135,7 @@ Other difference from the Time Annoucement, is that for Audio Files we have to c
 Your Upcoming Events list should look like this, or similar:
 
 <p align="center">
-	<img src="Images/UpcomingEventOrder1.png" alt="Próximos Eventos - Sem Ordenação"/>
+	<img src="Images/UpcomingEventOrder1.png" alt="Upcoming Events - Before ordering"/>
 </p>
 
 ### Setting event order on Upcoming Events queue
@@ -145,7 +145,7 @@ Something that can happen in your radio station is to have advertisers from the 
 The queue order is a number ranging from **0 to 99**, with all events starting at **50**. For events that share the same time, in this case 12:45:00, this is an option to customize their order according to your wishes. We can then take one of the markets, in this case the **Mercado 24 Horas** and modify this value.
 
 <p align="center">
-	<img src="Images/EventWindow_Order.png" alt="Ordenação do Evento"/>
+	<img src="Images/EventWindow_Order.png" alt="Event queue order"/>
 </p>
 
 As both markets are at the bottom of the list, we must then change one of them to any number less than 50, in this case 49, and confirm. Thus, we "pull" the ad to the top of the block, otherwise we would place a number greater than 50, "pushing" the ad down.
@@ -153,42 +153,42 @@ As both markets are at the bottom of the list, we must then change one of them t
 After this change, the events will then be repositioned in the Upcoming Events queue, looking like this:
 
 <p align="center">
-	<img src="Images/UpcomingEventOrder2.png" alt="Próximos Eventos - Pós Ordenação"/>
+	<img src="Images/UpcomingEventOrder2.png" alt="Upcoming Events - After Ordering"/>
 </p>
 
 In this way, we are able to prevent competitors' ads from being announced one after the other, with greater control of our block of advertisers.
 
-# Agendar um bloco de anúncios com playlist sequencial
+# Scheduling advertisement blocks with Sequential Playlist
 
-Para agendar um bloco de anúncios utilizando uma playlist sequencial, basta montar a playlist de anúncios no mesmo local da playlist musical. Ao salvar a playlist, selecione o formato **Playlist seq** e salve com o nome que desejar. **As playlists sequenciais só suportam arquivos de áudio no momento**, outros tipos de faixas não são suportadas.
-
-<p align="center">
-	<img src="Images/SequentialPlaylist.webp" alt="Salvando playlist seq"/>
-</p>
-
-Ao agendar o bloco de anúncios, basta então selecionar **Arquivo de Playlist** como o Tipo do Evento e selecionar a playlist salva.
+To schedule an ad block using a sequential playlist, simply create a playlist with your ads the same as you create a music playlist. When saving, select the **Playlist seq** format and save it with the name you want. **Sequential playlists only support audio files at this time**, other track types are not supported.
 
 <p align="center">
-	<img src="Images/SchedulingSequentialPlaylist.png" alt="Agendando playlist seq"/>
+	<img src="Images/SequentialPlaylist.webp" alt="Saving seq playlist"/>
 </p>
 
-## Playlists Sequenciais e Rotativas
+When scheduling the event, select **Playlist File** as the Event Type and then select the playlist you created.
 
-As playlists sequenciais são um tipo especial de faixa, na qual você pode colocar diversas faixas de áudio e **todas elas tocarão na sequencia salva até que termine a playlist**. São uma opção interessante para criar blocos customizados de anúncios como demonstrado acima.
+<p align="center">
+	<img src="Images/SchedulingSequentialPlaylist.png" alt="Scheduling seq playlist"/>
+</p>
 
-Outro tipo especial de faixa são as playlists rotativas, nas quais **toda vez que ela for disparada, ela tocará somente uma das faixas de áudio, alternando entre as faixas salvas na playlist**. Você pode criá-las da mesma forma que as playlists sequenciais, mas salve como **Playlist rot**. Estas faixas são ótimas para quando você tem um anunciante com mais de uma versão de seu anúncio ou então diversas vinhetas que você deseja rotacionar.
+## Sequential and rotation playlists
 
-# Agendar uma playlist musical
+Sequential playlists are a special type of track where you can place multiple audio tracks and **all of them will play in the saved sequence until the playlist ends**. They are an interesting option to create custom ad blocks as shown above.
 
-Aproveitando o assunto de playlists, para agendar uma playlist musical selecione **Arquivo de Playlist** como o Tipo do Evento e agendar a sua playlist. Para arquivos do tipo m3u ou lst, isto fará a grade músical ser trocada pela nova indicada no evento.
+Another special type of track is rotation playlists, in which **every time it is triggered, it will play only one of the audio tracks, switching between the tracks saved in the playlist**. You can create them in the same way as sequential playlists, but save as **Playlist rot**. These tracks are great for when you have an advertiser with more than one version of their ad or multiple sweepers that you want to rotate.
+
+# Scheduling a music playlist
+
+On the subject of playlists, to schedule a music playlist select **Playlist File** as the Event Type and schedule your playlist. For m3u or lst files, this will change the music playlist to the new one selected in the event.
 
 <p align="center">
 	<img src="Images/SchedulingPlaylist.png" alt="Agendando playlist m3u"/>
 </p>
 
-Esta opção é muito interessante para rádios que tem diferentes grades musicais durante o dia, ou diferentes grades por dia da semana. Basta montar e agendar suas playlists de acordo com os dias e horários desejados para tornar a troca da grade musical mais fácil.
+This option is very interesting for radio stations that have different music playlists during the day, or different schedules by day of the week. Just create and schedule your playlists according to the days and times you want to make switching music lists easier.
 
-Note que também há tipos de eventos especiais, como **Iniciar Playlist** e **Parar playlist**. Estes eventos simulam um clique no botão de **Play** e **Stop**, respectivamente, para que você possa agendar quando iniciar ou parar a reprodução do player, automatizando ainda mais o seu controle sobre os horários de sua rádio.
+Note that there are also special event types such as **Start Playback** and **Stop Playback**. These events simulate a click on the **Play** and **Stop** buttons, respectively, so you can schedule when to start or stop the player, further automating your control over your radio's schedules.
 
 # Agendar um programa utilizando as prioridades
 
