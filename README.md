@@ -78,3 +78,21 @@ First of all, thanks for thinking in contributing to this project! Salamandra is
 You can always contribute with testing, documentation, translations, reporting bugs or sharing ideas for new functionalities.
 
 Right now, what we really need is testing. All functionalities are stable in our testing enviroments, but bugs and unexpected behaviors can happen in differents setups, even more in these initial releases.
+
+## Doações
+
+Salamandra is a completely free software, you don't have to pay in any way to use it with all its functions. However, it is a software developed in my free time as a hobby to practice programming.
+
+If you consider it useful for your radio or work in any way and wish to make a monetary contribution, feel free to contribute with a token donation of 50.00 BRL through the links below:
+
+<p align="center">
+	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CUGK5THLXMTML">
+		<img src="../Readme/paypal-logo.png" alt="Pay Pal">
+	</a>
+
+	<a href="https://mpago.la/1JnX3bx">
+		<img src="../Readme/mercado-pago-logo.png" alt="Mercado Pago">
+	</a>
+</p>
+
+Before making any donations, please understand that this is one of the ways of showing your appreciation for this project - **there will be no buyer/seller relationship!**. There is no promises of warranty, support, attention to new functionality requests or any obligations between me (developer) and you (user) through a contribution.
