@@ -87,11 +87,11 @@ If you consider it useful for your radio or work in any way and wish to make a m
 
 <p align="center">
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CUGK5THLXMTML">
-<img src="../Readme/paypal-logo.png" alt="Pay Pal"/>
+<img src="Readme/paypal-logo.png" alt="Pay Pal"/>
 </a>
 
 <a href="https://mpago.la/1JnX3bx">
-<img src="../Readme/mercado-pago-logo.png" alt="Mercado Pago">
+<img src="Readme/mercado-pago-logo.png" alt="Mercado Pago">
 </a>
 </p>
 
