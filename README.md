@@ -86,13 +86,13 @@ Salamandra is a completely free software, you don't have to pay in any way to us
 If you consider it useful for your radio or work in any way and wish to make a monetary contribution, feel free to contribute with a token donation of 50.00 BRL through the links below:
 
 <p align="center">
-	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CUGK5THLXMTML">
-		<img src="../Readme/paypal-logo.png" alt="Pay Pal">
-	</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CUGK5THLXMTML">
+<img src="../Readme/paypal-logo.png" alt="Pay Pal"/>
+</a>
 
-	<a href="https://mpago.la/1JnX3bx">
-		<img src="../Readme/mercado-pago-logo.png" alt="Mercado Pago">
-	</a>
+<a href="https://mpago.la/1JnX3bx">
+<img src="../Readme/mercado-pago-logo.png" alt="Mercado Pago">
+</a>
 </p>
 
 Before making any donations, please understand that this is one of the ways of showing your appreciation for this project - **there will be no buyer/seller relationship!**. There is no promises of warranty, support, attention to new functionality requests or any obligations between me (developer) and you (user) through a contribution.
