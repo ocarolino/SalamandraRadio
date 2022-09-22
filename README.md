@@ -79,7 +79,7 @@ You can always contribute with testing, documentation, translations, reporting b
 
 Right now, what we really need is testing. All functionalities are stable in our testing enviroments, but bugs and unexpected behaviors can happen in differents setups, even more in these initial releases.
 
-## Doações
+## Donations
 
 Salamandra is a completely free software, you don't have to pay in any way to use it with all its functions. However, it is a software developed in my free time as a hobby to practice programming.
 
