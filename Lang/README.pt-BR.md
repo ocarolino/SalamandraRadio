@@ -13,7 +13,7 @@
 <hr>
 
 <p align="center">
-	<a href="https://github.com/ocarolino/SalamandraRadio"><img src="Readme/Flags/us.png"/> English</a> | <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/README.pt-BR.md"><img src="Readme/Flags/br.png"/> Português do Brasil</a>
+	<a href="https://github.com/ocarolino/SalamandraRadio"><img src="../Readme/Flags/us.png"/> English</a> | <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/README.pt-BR.md"><img src="../Readme/Flags/br.png"/> Português do Brasil</a>
 </p>
 
 <hr>
