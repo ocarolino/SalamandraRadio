@@ -34,7 +34,7 @@
 * Auto-generated log files to register any player activity or errors.
 
 # Getting Started
-You can download the latest release, unzip and open Salamandra.exe. There's no need for installation or extra configurations.
+You can download the <a href="https://github.com/ocarolino/SalamandraRadio/releases/latest/download/Salamandra.rar">latest release</a>, unzip and open Salamandra.exe. There's no need for installation or extra configurations.
 
 We have a <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Docs/Getting%20Started.md">Getting Started tutorial</a> where you can see an overview of Salamandra features. But even for functionalities not explained yet, Salamandra is designed to be intuitive, with all relevant functions written in a clear manner. You can also put the cursor on top of any option and read an explanation of what it does.
 
