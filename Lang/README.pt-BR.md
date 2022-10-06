@@ -36,9 +36,12 @@
 * Gerador de arquivos de log, para registrar qualquer atividade ou erros do player.
 
 # Primeiros Passos
-Você pode baixar o <a href="https://github.com/ocarolino/SalamandraRadio/releases/latest/download/Salamandra.rar">último release</a>, descompactar e abrir o **Salamandra.exe**. Não há a necessidade de instalação ou configurações extras.
+Você pode baixar o <a href="https://github.com/ocarolino/SalamandraRadio/releases/latest/download/Salamandra.rar">último release</a>, descompactar e abrir o **Salamandra.exe**. Não há a necessidade de instalação ou configurações extras. Nós temos os seguintes tutoriais até o momento:
 
-Nós temos um <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/Getting%20Started.pt-br.md">tutorial de Primeiros Passos</a>, onde você pode ter uma visão geral das funcionalidades do Salamandra. Mas mesmo para funcionalidades que ainda não tem um tutorial, o Salamandra foi desenvolvido de forma a ser intuitivo, com todas as funções escritas de uma maneira clara. Você também pode colocar o cursor do mouse em qualquer opção e ler uma breve explicação do que ela faz.
+- <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/How%20to%20Install.pt-br.md">Como instalar/atualizar o Salamandra</a>
+- <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/Getting%20Started.pt-br.md">Primeiros passos para montar sua programação</a>
+
+Em nossos tutoriais você pode ter uma visão geral das funcionalidades do Salamandra. Mas mesmo para funcionalidades que ainda não tem um tutorial, o Salamandra foi desenvolvido de forma a ser intuitivo, com todas as funções escritas de uma maneira clara. Você também pode colocar o cursor do mouse em qualquer opção e ler uma breve explicação do que ela faz.
 
 # Screenshots
 
