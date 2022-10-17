@@ -108,3 +108,5 @@ Antes de fazer qualquer contribuição, entenda que esta é uma das formas de mo
 * [Icons8](https://icons8.com)
 * [famfamfam Silk Icons](http://www.famfamfam.com/lab/icons/silk/)
 * [Lizard icons created by Kiranshastry - Flaticon](https://www.flaticon.com/free-icons/lizard)
+* [Font Awesome](https://fontawesome.com/)
+* [Material Design Icons](fonts.google.com/icons)

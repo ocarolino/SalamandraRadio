@@ -103,3 +103,5 @@ Before making any donations, please understand that this is one of the ways of s
 * [Icons8](https://icons8.com)
 * [famfamfam Silk Icons](http://www.famfamfam.com/lab/icons/silk/)
 * [Lizard icons created by Kiranshastry - Flaticon](https://www.flaticon.com/free-icons/lizard)
+* [Font Awesome](https://fontawesome.com/)
+* [Material Design Icons](fonts.google.com/icons)
