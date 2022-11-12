@@ -66,11 +66,9 @@ Em nossos tutoriais você pode ter uma visão geral das funcionalidades do Salam
 </p>
 
 # Contribuições
-Antes de qualquer coisa, obrigado por pensar em contribuir para este projeto! Salamandra é um software gratuito, mas não é de código aberto - isso não quer dizer que as contribuições não são bem vindas!
+Antes de qualquer coisa, obrigado por pensar em contribuir para este projeto! 
 
-Você pode sempre contribuir divulgando, testando, com tutoriais/documentação, traduções, reportando bugs ou dando ideias para novas funcionalidades.
-
-Neste momento, o que precisamos é de testes. Todas as funcionalidades são estaveis em nossos ambientes de teste, mas bugs e outros comportamentos inesperados podem acontecer com máquinas e configurações diferentes, ainda mais nessas primeiras versões.
+O Salamandra é um software gratuito, mas não é de código aberto - isso não quer dizer que as contribuições não são bem vindas! Você pode sempre contribuir divulgando, testando, com tutoriais/documentação, traduções, reportando bugs ou dando ideias para novas funcionalidades.
 
 # Doações
 
