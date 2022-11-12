@@ -86,7 +86,9 @@ Caso você considere-o útil para sua rádio ou trabalho de alguma forma e desej
 </a>
 </p>
 
-Antes de fazer qualquer contribuição, entenda que esta é uma das formas de mostrar sua apreciação por este projeto - **não haverá qualquer relação entre comprador e vendedor!**. Não há qualquer promessa de garantia, suporte, atenção a requisição de novas funcionalidades ou qualquer obrigação entre mim (desenvolvedor) e você (usuário) através de uma contribuição.
+Antes de fazer qualquer contribuição, entenda que esta é uma das formas de mostrar sua apreciação por este projeto - **não haverá qualquer relação entre comprador e vendedor!** 
+
+Não há qualquer promessa de garantia, suporte, atenção a requisição de novas funcionalidades ou qualquer obrigação entre mim (desenvolvedor) e você (usuário) através de uma contribuição. Lembre-se, também há [outras formas de contribuir](#contribuições) para o projeto se assim desejar!
 
 # Bibliotecas e Recursos
 
