@@ -38,4 +38,4 @@ O processo de atualização também é bem simples. Basta abrir a pasta onde voc
 <img src="Images/UpdatingSalamandra.webp" alt="Atualização do Salamandra" />
 </p>
 
-Após isso, basta então refazer o processo para baixar uma versão mais atual e extraí-la na mesma pasta. Mantendo os dois arquivos, você então terá todas as configurações preservadas, podendo então aproveitar as novas funcionalidades sem interferir no que já estava configurando.
+Após isso, basta então refazer o processo para baixar uma versão mais atual e extraí-la na mesma pasta. Mantendo os dois arquivos, você terá todas as configurações preservadas, podendo então aproveitar as novas funcionalidades sem interferir no que já estava configurando.
