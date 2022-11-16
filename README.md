@@ -97,6 +97,7 @@ Before making any donations, please understand that this is one of the ways of s
 * [WpfExtendedToolkit](https://github.com/dotnetprojects/WpfExtendedToolkit)
 * [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop)
 * [WPFDarkTheme](https://github.com/AngryCarrot789/WPFDarkTheme)
+* [Adonis UI](https://benruehl.github.io/adonis-ui/)
 
 ### Visual Resources
 

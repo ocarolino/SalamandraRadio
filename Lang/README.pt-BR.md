@@ -102,6 +102,7 @@ Não há qualquer promessa de garantia, suporte, atenção a requisição de nov
 * [WpfExtendedToolkit](https://github.com/dotnetprojects/WpfExtendedToolkit)
 * [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop)
 * [WPFDarkTheme](https://github.com/AngryCarrot789/WPFDarkTheme)
+* [Adonis UI](https://benruehl.github.io/adonis-ui/)
 
 ### Recursos de Imagem/Visuais
 
