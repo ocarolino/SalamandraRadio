@@ -86,6 +86,17 @@ Caso você considere-o útil para sua rádio ou trabalho de alguma forma e desej
 	<a href="https://mpago.la/2kzSgwS">R$ 50,00</a>
 </p>
 
+<p align="center">
+<strong>Ou via PIX QrCode - Matheus da Silva Carolino</strong>
+</p>
+<p align="center">
+PIX NÃO TEM VALOR DEFINIDO, ENTÃO ATENTE PARA O VALOR ENVIADO!
+</p>
+
+<p align="center">
+<img src="../Readme/PixQrCode.png" alt="Mercado Pago" width="196">
+</p>
+
 Antes de fazer qualquer contribuição, entenda que esta é uma das formas de mostrar sua apreciação por este projeto - **não haverá qualquer relação entre comprador e vendedor!** 
 
 Não há qualquer promessa de garantia, suporte, atenção a requisição de novas funcionalidades ou qualquer obrigação entre mim (desenvolvedor) e você (usuário) através de uma contribuição. Lembre-se, também há [outras formas de contribuir](#contribuições) para o projeto se assim desejar!
