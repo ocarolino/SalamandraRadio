@@ -74,16 +74,16 @@ O Salamandra é um software gratuito, mas não é de código aberto - isso não 
 
 O Salamandra é um software completamente gratuito, você não precisa pagar de forma alguma para usá-lo na totalidade de suas funções. Porém, ele é um software desenvolvido no meu tempo livre como um hobby para praticar programação. 
 
-Caso você considere-o útil para sua rádio ou trabalho de alguma forma e deseje fazer uma contribuição monetária, sinta-se livre para contribuir com um valor simbólico de R$ 50,00 através dos links abaixo:
+Caso você considere-o útil para sua rádio ou trabalho de alguma forma e deseje fazer uma contribuição monetária, sinta-se livre para contribuir com um valor simbólico através dos links abaixo:
 
 <p align="center">
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CUGK5THLXMTML">
-<img src="../Readme/paypal-logo.png" alt="Pay Pal" width="196"/>
-</a>
-
-<a href="https://mpago.la/1JnX3bx">
 <img src="../Readme/mercado-pago-logo.png" alt="Mercado Pago" width="196">
-</a>
+</p>
+
+<p align="center">
+	<a href="https://mpago.la/2TrMuvN">R$ 20,00</a> |
+	<a href="https://mpago.la/1XN7QWp">R$ 35,00</a> |
+	<a href="https://mpago.la/2kzSgwS">R$ 50,00</a>
 </p>
 
 Antes de fazer qualquer contribuição, entenda que esta é uma das formas de mostrar sua apreciação por este projeto - **não haverá qualquer relação entre comprador e vendedor!** 
