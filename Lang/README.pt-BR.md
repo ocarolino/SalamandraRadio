@@ -87,8 +87,9 @@ Caso você considere-o útil para sua rádio ou trabalho de alguma forma e desej
 </p>
 
 <p align="center">
-<strong>Ou via PIX QrCode - Matheus da Silva Carolino</strong>
+Ou via PIX - <strong>salamandraradioautomation@gmail.com</strong><br/>(Matheus da Silva Carolino)</strong>
 </p>
+
 <p align="center">
 PIX NÃO TEM VALOR DEFINIDO, ENTÃO ATENTE PARA O VALOR ENVIADO!
 </p>
