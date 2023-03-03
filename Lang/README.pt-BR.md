@@ -41,6 +41,7 @@ Você pode baixar o <a href="https://github.com/ocarolino/SalamandraRadio/releas
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/How%20to%20Install.pt-br.md">Como instalar/atualizar o Salamandra</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/Getting%20Started.pt-br.md">Primeiros passos para montar sua programação</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/File%20Types.pt-br.md">Como lidar com Tipos de Arquivos</a>
+- <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/Hotkeys.pt-br.md">Lista de Teclas de Atalho do Salamandra</a>
 
 Em nossos tutoriais você pode ter uma visão geral das funcionalidades do Salamandra. Mas mesmo para funcionalidades que ainda não tem um tutorial, o Salamandra foi desenvolvido de forma a ser intuitivo, com todas as funções escritas de uma maneira clara. Você também pode colocar o cursor do mouse em qualquer opção e ler uma breve explicação do que ela faz.
 
