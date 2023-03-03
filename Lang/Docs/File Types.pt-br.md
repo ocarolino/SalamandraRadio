@@ -1,5 +1,11 @@
 # Tipos de Arquivo
 
+- [Identificadores](#identificadores)
+  - [Informações para Identificação](#informações-para-identificação)
+  - [Informações para Busca](#informações-para-busca)
+- [Ordem dos Tipos](#ordem-dos-tipos)
+- [Configurações Customizadas](#configurações-customizadas)
+
 No Salamandra, você pode configurar a mixagem dos arquivos de áudio de uma forma generalizada através das **Configurações**. Porém, para outros arquivos, como Comerciais, Vinhetas e afins, pode ser necessário fazer uma configuração diferente. Essa configuração você pode fazer através dos Tipos de Arquivo.
 
 Para acessar a configuração dos Tipos de Arquivo, vá no menu **Ferramentas > Tipos de Arquivo**. Você então verá a janela abaixo:
@@ -14,15 +20,15 @@ Você poderá digitar um nome para descrevê-lo, como Comerciais, Vinhetas, ou e
 
 ## Identificadores
 
-<p align="center">
-	<img src="Images/FileTypesWindow_Identifiers.png" alt="Identificador do Tipo de Arquivo"/>
-</p>
-
 Temos quatro atributos muito importantes nessa parte! Dois deles são a informação que o Salamandra buscará para **identificar o arquivo** e dois deles a **forma que a informação poderá ser encontrada**.
 
 ### Informações para Identificação
 
 O identificador é um texto que será buscado pelo Salamandra nos dados do arquivo, na imagem, por exemplo, "Comercial" é uma informação que o Salamandra buscará no **Nome do Arquivo**.
+
+<p align="center">
+	<img src="Images/FileTypesWindow_Identifiers.png" alt="Identificador do Tipo de Arquivo"/>
+</p>
 
 As pastas são outra forma de identificar um arquivo. Neste exemplo, todos os arquivos contidos em "G:\Rádio de Rua\Comerciais\" serão considerados do tipo de arquivo **Comerciais**.
 
