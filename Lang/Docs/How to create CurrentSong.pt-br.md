@@ -1,5 +1,12 @@
 # Como gerar o arquivo CurrentSong
 
+- [Arquivo de Modelo](#arquivo-de-modelo)
+  - [Tipos de Arquivo](#tipos-de-arquivo)
+- [Arquivo de Saída](#arquivo-de-saída)
+- [Tokens](#tokens)
+  - [Tokens da Faixa de Áudio](#tokens-da-faixa-de-áudio)
+  - [Outros Tokens](#outros-tokens)
+
 Para a exportação dos metadados, o Salamandra pode gerar um arquivo CurrentSong, NowPlaying ou outro qualquer, para que você possa integrar essa informação em um outro programa, como um programa de Streaming.
 
 Você pode acessar as configurações do CurrentSong através do menu **Ferramentas > Configurações**, acesse então a aba de **Registro** na janela que se abrir e você terá a tela abaixo.
@@ -21,19 +28,19 @@ O Salamandra não tem um formato padrão para gerar os arquivos de CurrentSong, 
 Este arquivo pode ser um arquivo de texto simples ou até mesmo outro formato mais estruturado, como um XML. Você pode ver alguns exemplos abaixo:
 
 <p align="center">
-    <img src="Images/CurrentSong_SimpleTemplate.png" alt="Modelo Simples p/ CurrentSong" />
-</p>
-
-<p align="center">
 <strong>Modelo simples p/ CurrentSong</strong>
 </p>
 
 <p align="center">
-    <img src="Images/CurrentSong_ComplexTemplate.png" alt="Modelo Complexo p/ CurrentSong" />
+    <img src="Images/CurrentSong_SimpleTemplate.png" alt="Modelo Simples p/ CurrentSong" />
 </p>
 
 <p align="center">
 <strong>Modelo estruturado p/ CurrentSong</strong>
+</p>
+
+<p align="center">
+    <img src="Images/CurrentSong_ComplexTemplate.png" alt="Modelo Complexo p/ CurrentSong" />
 </p>
 
 Dessa forma, o Salamandra consegue gerar um arquivo de saída da forma desejada pelo usuário, podendo ser ajustado para ser lido por qualquer programa que precise dessas informações. 
@@ -48,11 +55,11 @@ Normalmente, as informações de Tags das músicas são mais completas do que de
 
 Para gerar o arquivo de saída, defina a configuração **Caminho para arquivo CurrentSong ser gerado**. O arquivo de saída é um arquivo de texto, mas não há uma extensão fixada. Você poderá definir o arquivo de saída como **TXT**, **XML**, apenas colocando a extensão no nome do arquivo, de acordo com a sua necessidade.
 
-**Atente para a configuração da codificação de saída!** Seu programa de streaming pode pedir uma codificação de texto específica, então verifique esta configuração caso aconteça qualquer problema.
-
 <p align="center">
     <img src="Images/CurrentSong_OutputFile.png" alt="Configuração do arquivo de modelo do CurrentSong" />
 </p>
+
+**Atente para a configuração da codificação de saída!** Seu programa de streaming pode pedir uma codificação de texto específica, então verifique esta configuração caso aconteça qualquer problema.
 
 ## Tokens
 
