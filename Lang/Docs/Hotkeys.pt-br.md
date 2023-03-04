@@ -1,6 +1,6 @@
 # Teclas de Atalho
 
-Para agilizar o uso do programa, o Salamandra conta com algumas teclas de atalho que você pode ver descrita abaixo. Grande parte dessas teclas estão disponíveis a partir da versão **0.4.0**, então verifique qual a sua versão antes de acionar qualquer uma delas.
+Para agilizar o uso do programa, o Salamandra conta com algumas teclas de atalho que você pode ver descritas abaixo.
 
 ## Arquivo da Playlist
 
