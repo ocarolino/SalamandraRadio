@@ -1,5 +1,10 @@
 # Como utilizar a Cartucheira
 
+- [Botões da Cartucheira](#botões-da-cartucheira)
+  - [Modo do Botão](#modo-do-botão)
+    - [Opções para Vinhetas](#opções-para-vinhetas)
+  - [Ordem dos Botões e Abas](#ordem-dos-botões-e-abas)
+
 A Cartucheira do Salamandra é um recurso que serve para você cadastrar diversos botões de arquivos de áudios, para que possam ser tocados instantâneamente, como Jingles ou Vinhetas, ou adicionados à playlist, para montar mais rapidamente sua programação.
 
 Você pode acessar a Cartucheira no lado esquerdo da Janela Principal, clicando sobre a Cartucheira.
@@ -55,7 +60,7 @@ Para os dois modos relacionados ao Player Principal, você terá a opção de **
 Após salvar seus botões e suas abas, é possível clicar e arrastar, como abaixo, para deixá-los na ordem que seja mais conveniente para o seu trabalho.
 
 <p align="center">
-	<img src="Images/CartwallSettingsWindow_DragDrop.png" alt="Arrastar para reordenar itens da Cartucheira"/>
+	<img src="Images/CartwallSettingsWindow_DragDrop.webp" alt="Arrastar para reordenar itens da Cartucheira"/>
 </p>
 
 O mesmo pode ser feito com as abas, para também deixar na ordem que lhe agrade.
