@@ -40,6 +40,7 @@ Você pode baixar o <a href="https://github.com/ocarolino/SalamandraRadio/releas
 
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/How%20to%20Install.pt-br.md">Como instalar/atualizar o Salamandra</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/Getting%20Started.pt-br.md">Primeiros passos para montar sua programação</a>
+- <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/How%20to%20use%20the%20Cartwall.pt-br.md">Como utilizar a Cartucheira</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/File%20Types.pt-br.md">Como lidar com Tipos de Arquivos</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/How%20to%20create%20CurrentSong.pt-br.md">Como gerar o arquivo CurrentSong</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/Hotkeys.pt-br.md">Lista de Teclas de Atalho do Salamandra</a>
