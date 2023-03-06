@@ -39,6 +39,7 @@
 Você pode baixar o <a href="https://github.com/ocarolino/SalamandraRadio/releases/latest/download/Salamandra.rar">último release</a>, descompactar e abrir o **Salamandra.exe**. Não há a necessidade de instalação ou configurações extras. Nós temos os seguintes tutoriais até o momento:
 
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/How%20to%20Install.pt-br.md">Como instalar/atualizar o Salamandra</a>
+- <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/Getting%20Started.pt-br.md#configurando-os-arquivos-de-locu%C3%A7%C3%A3o-de-hora">Configurar arquivos de Hora Certa</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/Getting%20Started.pt-br.md">Primeiros passos para montar sua programação</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/How%20to%20use%20the%20Cartwall.pt-br.md">Como utilizar a Cartucheira</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/File%20Types.pt-br.md">Como lidar com Tipos de Arquivos</a>
