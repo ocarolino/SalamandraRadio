@@ -72,6 +72,8 @@ Logo no fim da tela, você verá a opção **Caminho para arquivos de Locução 
 
 Os arquivos devem estar no seguinte formato: **HRSxx** e **MINxx**, onde o **xx** representa um número indicando o tempo. Um arquivo para 8h da manhã, por exemplo, seria **HRS08**, para o minuto 59, seria **MIN59**. Estes arquivos então são automaticamente combinados pelo Salamandra para indicar a hora nas faixas de Locução de Hora.
 
+Você também pode colocar junto aos arquivos de hora um arquivo **TIME_JINGLE**. Este arquivo tocará antes da hora certa, podendo ser algo como um efeito sonoro, uma vinheta da sua rádio ou patrocinador, como "Mercado Dois Irmãos anuncia a hora certa".
+
 Os arquivos de locução de hora podem estar em qualquer um dos formatos de áudio suportados pelo Salamandra.
 
 # Agendar um bloco de anúncio com eventos

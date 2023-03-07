@@ -72,6 +72,8 @@ In the Settings window, you will see at the bottom of the screen the option **Ti
 
 The files must be in the following format:  **HRSxx** and **MINxx**, where **xx** is an number indicating the time. A file for 8 am, for example, would be **HRS08**, for minute 59, it would be **MIN59**. These files are then automatically combined by Salamandra to indicate the time in the Time Announcement tracks.
 
+You can also add a **TIME_JINGLE** file together with the other time files. This file will play before the Time Annoucement, and it could be something like a sound effect or a jingle from your radio or sponsor.
+
 The audio files for time announcement can be in any of the audio formats supported by Salamandra.
 
 # Scheduling advertisement blocks with Events
