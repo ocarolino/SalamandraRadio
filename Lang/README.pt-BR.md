@@ -10,6 +10,10 @@
 	Projetado para rádios que precisam de um software <b>simples</b>, <b>fácil</b> e <b>estável</b> para programar suas transmissões.
 </p>
 
+<p align="center">
+Compatível com Windows 7 SP1, 8.1, 10 and 11.
+</p>
+
 <hr>
 
 <p align="center">

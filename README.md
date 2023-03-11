@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+Compatible with Windows 7 SP1, 8.1, 10 and 11.
+</p>
+
+<p align="center">
 	<a href="https://github.com/ocarolino/SalamandraRadio"><img src="Readme/Flags/us.png"/> English</a> | <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/README.pt-BR.md"><img src="Readme/Flags/br.png"/> Português do Brasil</a>
 </p>
 
