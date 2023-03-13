@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-<small><a href="https://facebook.com/salamandraradiosoftware">Join us at Facebook!</a></small>
-</p>
-
-<p align="center">
 	<b>Salamandra</b> is a radio automation software for <b>Windows</b>.
 </p> 
 
@@ -16,14 +12,17 @@
 
 <p align="center">
 Compatible with Windows 7 SP1 (*), 8.1, 10 and 11.
-
-<small>
-(*) Your Windows 7 should be <strong>fully up-to-date</strong> - if you're having trouble, look up how to fix Windows Update error 80072EFE.
-</small>
 </p>
+
+(*) Your Windows 7 should be <strong>fully up-to-date</strong> - if you're having trouble, look up how to fix Windows Update error 80072EFE.
 
 <p align="center">
 	<a href="https://github.com/ocarolino/SalamandraRadio"><img src="Readme/Flags/us.png"/> English</a> | <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/README.pt-BR.md"><img src="Readme/Flags/br.png"/> Português do Brasil</a>
+</p>
+
+
+<p align="center">
+<a href="https://facebook.com/salamandraradiosoftware">Join us at Facebook!</a>
 </p>
 
 <hr>
