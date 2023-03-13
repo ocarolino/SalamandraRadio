@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+<small><a href="https://facebook.com/salamandraradiosoftware">Join us at Facebook!</a></small>
+</p>
+
+<p align="center">
 	<b>Salamandra</b> is a radio automation software for <b>Windows</b>.
 </p> 
 
@@ -11,7 +15,11 @@
 </p>
 
 <p align="center">
-Compatible with Windows 7 SP1, 8.1, 10 and 11.
+Compatible with Windows 7 SP1 (*), 8.1, 10 and 11.
+
+<small>
+(*) Your Windows 7 should be <strong>fully up-to-date</strong> - if you're having trouble, look up how to fix Windows Update error 80072EFE.
+</small>
 </p>
 
 <p align="center">
