@@ -98,7 +98,7 @@ If you consider it useful for your radio or work in any way and wish to make a m
 </p>
 
 <p align="center">
-<img src="../Readme/mercado-pago-logo.png" alt="Mercado Pago" width="196">
+<img src="Readme/mercado-pago-logo.png" alt="Mercado Pago" width="196">
 </p>
 
 <p align="center">
