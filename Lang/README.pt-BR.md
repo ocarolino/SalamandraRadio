@@ -104,6 +104,16 @@ Caso você considere-o útil para sua rádio ou trabalho de alguma forma e desej
 </p>
 
 <p align="center">
+	<img src="Readme/paypal-logo.png" alt="Pay Pal" width="196"/>
+</p>
+
+<p align="center">
+	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C3KRZ3MEGJGL8">R$ 20,00</a> |
+	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CUGK5THLXMTML">R$ 35,00</a> |
+	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TA6HGGPQYZNXE">R$ 50,00</a>
+</p>
+
+<p align="center">
 Ou via PIX - <strong>salamandraradioautomation@gmail.com</strong><br/>(Matheus da Silva Carolino)</strong>
 </p>
 
