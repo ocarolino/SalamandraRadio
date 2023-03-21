@@ -104,7 +104,7 @@ Caso você considere-o útil para sua rádio ou trabalho de alguma forma e desej
 </p>
 
 <p align="center">
-	<img src="Readme/paypal-logo.png" alt="Pay Pal" width="196"/>
+	<img src="../Readme/paypal-logo.png" alt="Pay Pal" width="196"/>
 </p>
 
 <p align="center">
