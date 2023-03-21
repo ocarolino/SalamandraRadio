@@ -75,7 +75,7 @@ Para gerar o arquivo de saída, defina a configuração **Caminho para arquivo C
 
 **%album%** - Tag de álbum da arquivo de áudio.
 
-**%track%%** - Tag de faixa da arquivo de áudio.
+**%track%** - Tag de faixa da arquivo de áudio.
 
 **%year%** - Tag de ano da arquivo de áudio.
 
