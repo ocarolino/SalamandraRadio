@@ -36,6 +36,10 @@ Para agilizar o uso do programa, o Salamandra conta com algumas teclas de atalho
 
 **B** - Ativar/desativar para parar após a próxima faixa.
 
+**H** - Tocar Locução de Hora.
+
+**Espaço** - Mesma função configurada para o duplo clique (Marcar como próxima ou reproduzir a faixa).
+
 ## Volume do Player
 
 **.** - Aumentar o volume.
@@ -50,7 +54,7 @@ Para agilizar o uso do programa, o Salamandra conta com algumas teclas de atalho
 
 **CTRL+1,2,3,4** - Abrir o Player Auxiliar correspondente.
 
-**CTRL+ALT+(1-9, A-F)** - Ativar o botão da Cartucheira correspondente à tecla de atalho.
+**0-9, ALT + 0-9** - Ativar o botão da Cartucheira correspondente à tecla de atalho.
 
 ## Playlist e Lista de Eventos
 
