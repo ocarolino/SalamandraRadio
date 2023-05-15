@@ -51,7 +51,7 @@ With this setting, Salamandra manages to generate an output file in the format d
 
 Usually, the metadata/tags of songs is more complete than that of advertisments or pre-recorded shows, for example. For these, if you wish, you can customize the template that will be used as well, through the File Types.
 
-## Output Files
+## Output File
 
 To generate the output file, set the **Path to generate output file** setting. This is a text file, but there is no default extension. You can define the output file as **TXT**, **XML**, just setting the extension with the file name, according to your needs.
 
@@ -85,9 +85,9 @@ To generate the output file, set the **Path to generate output file** setting. T
 
 **%comment%** - Audio file comment tag.
 
-### Outros Tokens
+### Other Tokens
 
-#### Hora
+#### Time
 
 **%time_now_hour%** - Current hour
 
@@ -99,7 +99,7 @@ To generate the output file, set the **Path to generate output file** setting. T
 
 **%time_now_long%** - Current time in long format
 
-#### Data
+#### Date
 
 **%date_now_day%** - Current day (numeric)
 
