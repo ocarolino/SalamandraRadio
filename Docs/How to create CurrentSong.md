@@ -1,15 +1,15 @@
 # How to create a CurrentSong file
 
-- [Template File](#arquivo-de-modelo)
-  - [File Types](#tipos-de-arquivo)
-- [Output File](#arquivo-de-saída)
+- [Template File](#template-file)
+  - [File Types](#file-types)
+- [Output File](#output-file)
 - [Tokens](#tokens)
-  - [Audio Track Tokens](#tokens-da-faixa-de-áudio)
-  - [Other Tokens](#outros-tokens)
+  - [Audio Track Tokens](#audio-track-tokens)
+  - [Other Tokens](#other-tokens)
 
-For the export of metadata, Salamandra can generate a CurrentSong file, so that you can integrate this information into another software, such as a streaming encoder.
+Salamandra can export a CurrentSong/NowPlaying file, so that you can integrate the player metadata into another software, such as a streaming encoder.
 
-You can access the CurrentSong settings through the menu **Tools > Settings**, then access the **Logs** tab and you will have the screen below.
+You can access the CurrentSong settings through the menu **Tools > Settings**, then access the **Logs** tab and you will see the screen below.
 
 <p align="center">
     <img src="Images/CurrentSong_Settings.png" alt="Log tab on Settings Window" />
@@ -19,13 +19,15 @@ To generate a CurrentSong file, first of all, it is necessary to activate the op
 
 ## Template File
 
-Salamandra does not have a standard format to generate CurrentSong files, giving the user freedom to generate this file with the layout he wants. To set the output format you need, you must choose the **Path to import template file**.
+By default, Salamandra generates the CurrentSong with the name of the audio file that is playing, however it is possible to create your own template. To set the output layout you need, you must choose the **Path to import template file**.
 
 <p align="center">
     <img src="Images/CurrentSong_InputFile.png" alt="CurrentSong input file setting" />
 </p>
 
-This file can be a plain text file or even another more structured format, such as XML. You can see some examples below:
+The template can be a plain text file or even another more structured format, such as XML. To create your template, just use a simple text editor such as **Notepad** and see the list of tokens below to find out what data Salamandra will output.
+
+You can see some examples below: 
 
 <p align="center">
 <strong>Simple CurrentSong template</strong>
@@ -43,9 +45,7 @@ This file can be a plain text file or even another more structured format, such 
     <img src="Images/CurrentSong_ComplexTemplate.png" alt="XML CurrentSong template" />
 </p>
 
-In this way, Salamandra manages to generate an output file in the format desired by the user, which can be adjusted to be read by any software that needs this information.
-
-To create this template file, just use a simple text editor such as **Notepad** and see the list of tokens below to find out what metadata you can use.
+With this setting, Salamandra manages to generate an output file in the format desired by the user, which can be adjusted to be read by any software that needs this information.
 
 ### File Types
 
@@ -53,7 +53,7 @@ Usually, the metadata/tags of songs is more complete than that of advertisments 
 
 ## Output Files
 
-To generate the output file, set the **Path to generate output file** setting. This is a text file, but there is no fixed extension. You can define the output file as **TXT**, **XML**, just setting the extension with the file name, according to your needs.
+To generate the output file, set the **Path to generate output file** setting. This is a text file, but there is no default extension. You can define the output file as **TXT**, **XML**, just setting the extension with the file name, according to your needs.
 
 <p align="center">
     <img src="Images/CurrentSong_OutputFile.png" alt="CurrentSong output file setting" />
