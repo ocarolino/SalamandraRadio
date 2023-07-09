@@ -3,11 +3,13 @@
 - [Baixando o Salamandra](#baixando-o-salamandra)
 - [Versão Instalável](#versão-instalável)
   - [Migrando da Versão Portátil](#migrando-da-versão-portátil)
+    - [Versões antes da 0.5.3](#versões-antes-da-053)
+    - [Versões da 0.5.3 em diante](#versões-da-053-em-diante)
 - [Versão Portátil](#versão-portatil)
   - [Instalando o Salamandra](#instalando-o-salamandra)
   - [Atualizando o Salamandra](#atualizando-o-salamandra)
-    - [À partir da 0.5.3 em diante](#á-partir-da-0.5.3-em-diante)
-    - [Versões antes da 0.5.3](#versões-antes-da-0.5.3)
+    - [À partir da 0.5.3 em diante](#á-partir-da-053-em-diante)
+    - [Versões antes da 0.5.3](#versões-antes-da-053)
 
 ## Baixando o Salamandra
 
@@ -23,11 +25,13 @@ Clique então **sobre a versão que está sendo exibida** e você chegará a pá
 <img src="Images/SalamandraReleases.png" alt="Página de Releases do Salamandra" />
 </p>
 
-Nesta página você sempre verá a versão mais recente do Salamandra no topo, com uma breve descrição das novas funcionalidades ou correções de bugs que ela contém. Procure pelo link **Salamandra.rar** ou **Salamandra-installer.rar**, onde basta clicar para baixar o programa.
+Nesta página você sempre verá a versão mais recente do Salamandra no topo, com uma breve descrição das novas funcionalidades ou correções de bugs que ela contém. 
+
+Procure pelo link **Salamandra.rar** (para a versão portátil) ou **Salamandra-installer.rar** (para a versão instalável), onde basta clicar para baixar o programa.
 
 ## Versão Instalável
 
-Para a versão instalável do Salamandra basta baixar o arquivo **Salamandra-installer.rar** em uma pasta convenivente para você. Então extraia o arquivo e execute o **Salamandra-installer.exe**. Após fazer isso, basta seguir os passos do instalador. 
+Baixe o arquivo **Salamandra-installer.rar** em uma pasta conveniente para você. Então extraia o arquivo e execute o **Salamandra-installer.exe**. Após fazer isso, basta seguir o passo a passo do instalador. 
 
 <p align="center">
 <img src="Images/ExtractingSalamandraInstaller.webp" alt="Extração do Instalador do Salamandra" />
@@ -37,11 +41,11 @@ Para atualizar, basta seguir o mesmo processo de baixar e executar o instalador 
 
 ### Migrando da Versão Portátil
 
-Se você estava com a versão portátil e deseja migrar para a versão instalável, o processo também é bastante simples. Você pode simplesmente instalar na mesma pasta que você tinha antes. Caso não deseje fazer isso, você deverá instalar o Salamandra normalmente pelo instalador e seguir os seguintes passos.
+Se você estava com a versão portátil e deseja migrar para a versão instalável, o processo também é bastante simples, mas você precisará ser cuidadoso. Siga os passos abaixo, verificando qual é a versão que você tem instalada no momento.
 
 #### Versões antes da 0.5.3
 
-1. **Abra o Salamandra pela primeira vez**, para que ele prepare as pastas de configuração.
+1. Instale o Salamandra e **abra-o pela primeira vez**, para que ele prepare as pastas de configuração.
 2. Acesse a pasta **%appdata%/NovaBR Softwares/Salamandra** e exclua os arquivos nela contidos. **ESTE PASSO É VITAL PARA SUAS CONFIGURAÇÕES FICAREM CORRETAS.**
 3. Copie os arquivos **application_settings.json** e **directory_library.json** da pasta da versão portátil para a pasta **%appdata%/NovaBR Softwares/Salamandra**.
 
@@ -51,7 +55,7 @@ Se você estava com a versão portátil e deseja migrar para a versão instaláv
 
 #### Versões da 0.5.3 em diante
 
-1. **Abra o Salamandra pela primeira vez**, para que ele prepare as pastas de configuração.
+1. Instale o Salamandra e **abra-o pela primeira vez**, para que ele prepare as pastas de configuração.
 2. Acesse a pasta **%appdata%/NovaBR Softwares/Salamandra** e exclua os arquivos nela contidos. **ESTE PASSO É VITAL PARA SUAS CONFIGURAÇÕES FICAREM CORRETAS.**
 3. Acesse o diretório Settings da pasta da versão portátil e copie todo seu conteúdo para a pasta **%appdata%/NovaBR Softwares/Salamandra**.
 
