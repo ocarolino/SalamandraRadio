@@ -50,6 +50,7 @@ Compatible with Windows 7 SP1 (*), 8.1, 10 and 11.
 # Getting Started
 You can download the <a href="https://github.com/ocarolino/SalamandraRadio/releases/latest/download/Salamandra.rar">latest release</a>, unzip and open Salamandra.exe. There's no need for installation or extra configurations. We have these tutorials at the moment:
 
+- <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Docs/How%20to%20Install.pt-br.md">How to install/update Salamandra</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Docs/Getting%20Started.md">Getting started</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Docs/How%20to%20create%20CurrentSong.md">How to create a CurrentSong file</a>
 
