@@ -19,7 +19,7 @@ To download Salamandra, you just need to go to the [project's main page](https:/
 <img src="Images/How To Install/SalamandraGitHub.png" alt="Página do Salamandra no GitHub" />
 </p>
 
-Then click **on the version being displayed** and you will open at the page with the download link for Salamandra.
+Then click **on the version being displayed** and you will go to the page with the download links for Salamandra.
 
 <p align="center">
 <img src="Images/How To Install/SalamandraReleases.png" alt="Página de Releases do Salamandra" />
