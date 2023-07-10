@@ -45,6 +45,8 @@ Se você estava com a versão portátil e deseja migrar para a versão instaláv
 
 #### Versões antes da 0.5.3
 
+Se você está em uma versão anterior a 0.5.3 e deseja atualizar, você pode apenas instalar o Salamandra na mesma pasta que já está instalada a versão portátil. Mas caso não queira fazer isso, siga os passos abaixo:
+
 1. Instale o Salamandra e **abra-o pela primeira vez**, para que ele prepare as pastas de configuração.
 2. Acesse a pasta **%appdata%/NovaBR Softwares/Salamandra** e exclua os arquivos nela contidos. **ESTE PASSO É VITAL PARA SUAS CONFIGURAÇÕES FICAREM CORRETAS.**
 3. Copie os arquivos **application_settings.json** e **directory_library.json** da pasta da versão portátil para a pasta **%appdata%/NovaBR Softwares/Salamandra**.
