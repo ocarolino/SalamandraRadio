@@ -52,6 +52,7 @@ Você pode baixar o <a href="https://github.com/ocarolino/SalamandraRadio/releas
 
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/How%20to%20Install.pt-br.md">Como instalar/atualizar o Salamandra</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/Getting%20Started.pt-br.md#configurando-os-arquivos-de-locu%C3%A7%C3%A3o-de-hora">Configurar arquivos de Hora Certa</a>
+- <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/How%20to%20not%20cut%20the%20end%20of%20audios.pt-br.md">Como não cortar o fim dos áudios?</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/Getting%20Started.pt-br.md">Primeiros passos para montar sua programação</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/How%20to%20use%20the%20Cartwall.pt-br.md">Como utilizar a Cartucheira</a>
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/Docs/File%20Types.pt-br.md">Como lidar com Tipos de Arquivos</a>
