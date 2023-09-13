@@ -2,7 +2,7 @@
 
 ## Instalando o Beautiful Weather
 
-Para ter os dados de temperatura e umidade automaticamente no Salamandra, você pode baixar o programa [Beautiful Weather - (clique aqui para baixar)](https://drive.google.com/file/d/1cMO5RUQXLdQ7zY7p3YTB1rfrgi0h9v5l/view?usp=sharing). Porém, para que o programa funcione corretamente, você deverá seguir as instruções abaixo durante a instalação.
+Para ter os dados de temperatura e umidade automaticamente no Salamandra, você pode baixar o programa [Beautiful Weather (clique aqui para baixar)](https://drive.google.com/file/d/1cMO5RUQXLdQ7zY7p3YTB1rfrgi0h9v5l/view?usp=sharing). Porém, para que o programa funcione corretamente, você deverá seguir as instruções abaixo durante a instalação.
 
 Primeiro, você deverá baixar o arquivo **BW1.0 setup.zip** e extrair em uma pasta qualquer. Após isso, execute o arquivo **BW1.0 setup.exe** e avance as opções até chegar na tela abaixo.
 
