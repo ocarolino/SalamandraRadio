@@ -2,7 +2,7 @@
 
 ## Instalando o Beautiful Weather
 
-Para ter os dados de temperatura e umidade automaticamente no Salamandra, você pode baixar o programa [Beautiful Weather - clique aqui para baixar!](https://drive.google.com/file/d/1cMO5RUQXLdQ7zY7p3YTB1rfrgi0h9v5l/view?usp=sharing). Porém, para que o programa funcione corretamente, você deverá seguir as instruções abaixo durante a instalação.
+Para ter os dados de temperatura e umidade automaticamente no Salamandra, você pode baixar o programa [Beautiful Weather - (clique aqui para baixar)](https://drive.google.com/file/d/1cMO5RUQXLdQ7zY7p3YTB1rfrgi0h9v5l/view?usp=sharing). Porém, para que o programa funcione corretamente, você deverá seguir as instruções abaixo durante a instalação.
 
 Primeiro, você deverá baixar o arquivo **BW1.0 setup.zip** e extrair em uma pasta qualquer. Após isso, execute o arquivo **BW1.0 setup.exe** e avance as opções até chegar na tela abaixo.
 
@@ -48,7 +48,11 @@ Se não aparecer, repita os passos, verificando se o nome e pais estão corretos
 
 ## Configurando o Salamandra
 
-Agora, você deverá acessar o Salamandra. Vá ao menu **Ferramentas > Configurações**. Acesse a aba **Horário e Clima**. 
+Agora, você deverá acessar o Salamandra. Vá ao menu **Ferramentas > Configurações**. Acesse a aba **Horário e Clima**.
+
+<p align="center">
+	<img src="Images/Weather/Salamandra_WeatherSettings.png" alt="Configuração da Temperatura no Salamandra"/>
+</p>
 
 Marque a opção **Importar de arquivo HTML (1)** e configure o caminho do arquivo currenweather.html no campo de texto. Se você estiver seguindo o passo a passo, estará no caminho **C:\Beautiful Weather\www\Currenweather\currenweather.html**.
 
