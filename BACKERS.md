@@ -1,8 +1,8 @@
-# Apoiadores
+# Backers
 
-Na listagem abaixo você pode ver todos aqueles que contribuiram financeiramente para a continuidade do Salamandra. Agradecemos grandiosamente a todos aqueles que vem nos apoiando durante essa jornada!
+In the list below you can see all those who contributed financially to mantain the development of Salamandra. We are very grateful to everyone who has supported us during this journey!
 
-As informações são extraidas dos comprovantes de pagamento. Se você é um apoiador e há alguma informação faltante ou incorreta, você pode nos enviar por e-mail:
+The information is extracted from payment receipts. If you are a backer and there is any missing or incorrect information, you can email us:
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
