@@ -87,6 +87,10 @@ Right now, what we really need is testing. All functionalities are stable in our
 
 # Donations
 
+<p align="center">
+<a href="https://github.com/ocarolino/SalamandraRadio/blob/main/BACKERS.md">List of our backers!</a>
+</p>
+
 Salamandra is a completely free software, you don't have to pay in any way to use it with all its functions. However, it is a software developed in my free time as a hobby to practice programming.
 
 If you consider it useful for your radio or work in any way and wish to make a monetary contribution, feel free to contribute with a token donation through the links below:

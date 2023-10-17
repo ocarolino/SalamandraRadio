@@ -91,6 +91,10 @@ O Salamandra é um software gratuito, mas não é de código aberto - isso não 
 
 # Doações
 
+<p align="center">
+<a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/BACKERS.pt-BR.md">Lista dos apoiadores!</a>
+</p>
+
 O Salamandra é um software completamente gratuito, você não precisa pagar de forma alguma para usá-lo na totalidade de suas funções. Porém, ele é um software desenvolvido no meu tempo livre como um hobby para praticar programação. 
 
 Caso você considere-o útil para sua rádio ou trabalho de alguma forma e deseje fazer uma contribuição monetária, sinta-se livre para contribuir com um valor simbólico através dos links abaixo:
