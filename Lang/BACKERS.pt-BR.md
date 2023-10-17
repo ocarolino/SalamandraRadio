@@ -16,16 +16,6 @@ As informações são extraidas dos comprovantes de pagamento. Se há alguma inf
     </tr>
   </thead>
   <tbody>
-  <table>
-  <thead>
-    <tr>
-      <th>Data</th>
-      <th>Nome</th>
-      <th>Rádio</th>
-      <th>Site</th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td>21/09/2022</td>
       <td>Martinho Oliveira</td>
@@ -146,7 +136,5 @@ As informações são extraidas dos comprovantes de pagamento. Se há alguma inf
       <td></td>
       <td></td>
     </tr>
-  </tbody>
-</table>
   </tbody>
 </table>
