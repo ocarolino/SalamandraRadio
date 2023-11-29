@@ -27,4 +27,11 @@ As informações são extraidas dos comprovantes de pagamento. Se você é um ap
 | 26/09/2023 | Gilmar Goes |  |  |
 | 27/09/2023 | Mark Heberman |  |  |
 | 05/10/2023 | Samuel Ferman |  |  |
-| 16/10/2023 | Marcio Barros |  |  |
+| 16/10/2023 | Marcio Barros da Silva |  |  |
+| 29/10/2023 | Gilmar Goes |  |  |
+| 31/10/2023 | Luis Riquelme Jimenez |  |  |
+| 04/11/2023 | Filipe Bessa | Rádio Clube Paços de Ferreira |  |
+| 09/11/2023 | Martinho Oliveira | MP Telecom | https://martinhoradio.com.br |
+| 11/11/2023 | Gilmar Goes |  |  |
+| 17/11/2023 | Marcio Barros da Silva |  |  |
+| 21/11/2023 | Carlos Werner Heinzelmann |  |  |
