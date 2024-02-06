@@ -6,6 +6,8 @@ As informações são extraidas dos comprovantes de pagamento. Se você é um ap
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
+Última atualização às 06/02/2024 - 09:26.
+
 | Data | Nome | Rádio | Site |
 | ---- | ---- | ----- | ---- |
 | 21/09/2022 | Martinho Oliveira |  |  |
@@ -35,3 +37,9 @@ As informações são extraidas dos comprovantes de pagamento. Se você é um ap
 | 11/11/2023 | Gilmar Goes |  |  |
 | 17/11/2023 | Marcio Barros da Silva |  |  |
 | 21/11/2023 | Carlos Werner Heinzelmann |  |  |
+| 24/12/2023 | Pavel Sotirov |  |  |
+| 24/12/2023 | Gilmar Goes |  |  |
+| 12/01/2024 | Marcio Barros da Silva |  |  |
+| 31/01/2024 | Gilmar Goes |  |  |
+| 01/02/2024 | Marcio Barros da Silva | Web Rádio Serra FM |  |
+| 02/02/2024 | Crossoverreboot |  |  |
