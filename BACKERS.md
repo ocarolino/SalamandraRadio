@@ -6,7 +6,7 @@ The information is extracted from payment receipts. If you are a backer and ther
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
-Last update at 06/02/2024 - 09:26.
+Last update at 09/03/2024 - 16:53.
 
 | Data | Nome | Rádio | Site |
 | ---- | ---- | ----- | ---- |
@@ -43,3 +43,6 @@ Last update at 06/02/2024 - 09:26.
 | 31/01/2024 | Gilmar Goes |  |  |
 | 01/02/2024 | Marcio Barros da Silva | Web Rádio Serra FM |  |
 | 02/02/2024 | Crossoverreboot |  |  |
+| 22/02/2024 | Marcio Wellington Queiroz |  |  |
+| 23/02/2024 | Angel Machado |  |  |
+| 09/03/2024 | Marcio Barros da Silva | webradioserrafm@gmail.com | https://serrafm.com |
