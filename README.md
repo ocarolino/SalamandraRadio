@@ -115,6 +115,10 @@ If you consider it useful for your radio or work in any way and wish to make a m
 	<a href="https://mpago.la/2kzSgwS">R$ 50,00</a>
 </p>
 
+<p align="center">
+AFTER MAKING THE DONATION, send the receipt to the email: <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a> or in the Inbox on the <a href="https://www.facebook.com/salamandraradiosoftware">Facebook page</a>.
+</p>
+
 Before making any donations, please understand that this is one of the ways of showing your appreciation for this project - **there will be no buyer/seller relationship!**. There is no promises of warranty, support, attention to new functionality requests or any obligations between me (developer) and you (user) through a contribution.
 
 # Libraries and Resources

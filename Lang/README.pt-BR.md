@@ -128,6 +128,10 @@ PIX NÃO TEM VALOR DEFINIDO, ENTÃO ATENTE PARA O VALOR ENVIADO!
 </p>
 
 <p align="center">
+APÓS FAZER A DOAÇÃO, envie o comprovante para o e-mail: <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a> ou no Inbox da<a href="https://www.facebook.com/salamandraradiosoftware">página do Facebook</a>.
+</p>
+
+<p align="center">
 <img src="../Readme/PixQrCode.png" alt="Mercado Pago" width="196">
 </p>
 
