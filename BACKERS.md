@@ -6,7 +6,7 @@ The information is extracted from payment receipts. If you are a backer and ther
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
-Last update at 09/03/2024 - 16:53.
+Last update at 02/04/2024 - 09:59.
 
 | Data | Nome | Rádio | Site |
 | ---- | ---- | ----- | ---- |
@@ -46,3 +46,12 @@ Last update at 09/03/2024 - 16:53.
 | 22/02/2024 | Marcio Wellington Queiroz |  |  |
 | 23/02/2024 | Angel Machado |  |  |
 | 09/03/2024 | Marcio Barros da Silva | webradioserrafm@gmail.com | https://serrafm.com |
+| 09/03/2024 | Leandro Alves Garcia |  |  |
+| 13/03/2024 | Gilmar Goes |  |  |
+| 15/03/2024 | Cristiano Oliveira |  |  |
+| 21/03/2024 | Pavel Sotirov |  |  |
+| 26/03/2024 | Miramar Pereira |  |  |
+| 26/03/2024 | Glaciel Soares do Nascimento |  |  |
+| 28/03/2024 | José Ferreira |  |  |
+| 01/04/2024 | Ulisses Bernardes da Silva |  |  |
+| 02/04/2024 | Gilmar Goes |  |  |
