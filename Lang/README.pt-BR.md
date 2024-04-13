@@ -13,10 +13,10 @@
 <hr>
 
 <p align="center">
-Compatível com Windows 7 SP1 (*), 8.1, 10 and 11.<br/>
+Compatível com Windows 7 SP1 + ESE (*), 8.1, 10 and 11.<br/>
 </p>
 
-(*) Seu Windows 7 deve estar <strong>completamente atualizado</strong> - caso tenha problemas, procure como resolver o erro 80072EFE do Windows Update.
+(*) Seu Windows 7 deve estar <strong>completamente atualizado</strong> (com Service Pack 1 + Extended Security Updates) - caso tenha problemas com o Windows Update, procure como resolver o erro 80072EFE do Windows Update.
 
 <hr>
 
