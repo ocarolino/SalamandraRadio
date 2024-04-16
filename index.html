@@ -7,6 +7,15 @@
   <title>Salamandra - Automação de Rádio</title>
   <link rel="icon" type="image/x-icon" href="web/favicon.png">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+
+  <style>    
+    /* Only applies if the window with is under 600px */
+    @media only screen and (max-width: 1023px) {
+        .hero-button {
+            flex-grow: 1;
+        }
+    }
+    </style>
 </head>
 
 <body>
@@ -35,12 +44,12 @@
             </p>
 
             <p class="buttons">
-              <a class="button is-medium is-link"
+              <a class="button is-medium is-link hero-button"
                 href="https://github.com/ocarolino/SalamandraRadio/releases/latest/download/SalamandraInstaller.rar">
                 Download (Instalador)
               </a>
 
-              <a class="button is-medium is-link is-light"
+              <a class="button is-medium is-link is-light hero-button"
                 href="https://github.com/ocarolino/SalamandraRadio/releases/latest/download/Salamandra.rar">
                 Download (Portátil)
               </a>
