@@ -89,6 +89,10 @@ Antes de qualquer coisa, obrigado por pensar em contribuir para este projeto!
 
 O Salamandra é um software gratuito, mas não é de código aberto - isso não quer dizer que as contribuições não são bem vindas! Você pode sempre contribuir divulgando, testando, com tutoriais/documentação, traduções, reportando bugs ou dando ideias para novas funcionalidades.
 
+<p align="center">
+<a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/SUGGESTIONS.pt-br.md">Regras para Sugestões!</a>
+</p>
+
 # Doações
 
 <p align="center">
