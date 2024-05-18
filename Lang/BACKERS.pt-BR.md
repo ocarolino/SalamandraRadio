@@ -6,7 +6,7 @@ As informações são extraidas dos comprovantes de pagamento. Se você é um ap
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
-Última atualização às 18/05/2024 - 08:30.
+Última atualização às 18/05/2024 - 15:41.
 
 | Data | Nome | Rádio | Site |
 | ---- | ---- | ----- | ---- |
@@ -73,3 +73,4 @@ As informações são extraidas dos comprovantes de pagamento. Se você é um ap
 | 07/05/2024 | Otoniel Esau Rivera Rivera |  |  |
 | 09/05/2024 | Manoel Joaquim | Radio Metal On |  |
 | 17/05/2024 | Marcio Barros da Silva | Web Rádio Serra FM |  |
+| 18/05/2024 | Martinho de Oliveira  |  |  |

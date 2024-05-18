@@ -6,7 +6,7 @@ The information is extracted from payment receipts. If you are a backer and ther
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
-Last update at 18/05/2024 - 08:30.
+Last update at 18/05/2024 - 15:41.
 
 | Date | Name | Radio | Site |
 | ---- | ---- | ----- | ---- |
@@ -73,3 +73,4 @@ Last update at 18/05/2024 - 08:30.
 | 07/05/2024 | Otoniel Esau Rivera Rivera |  |  |
 | 09/05/2024 | Manoel Joaquim | Radio Metal On |  |
 | 17/05/2024 | Marcio Barros da Silva | Web Rádio Serra FM |  |
+| 18/05/2024 | Martinho de Oliveira  |  |  |
