@@ -6,7 +6,7 @@ The information is extracted from payment receipts. If you are a backer and ther
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
-Last update at 04/04/2024 - 12:40.
+Last update at 18/05/2024 - 08:30.
 
 | Date | Name | Radio | Site |
 | ---- | ---- | ----- | ---- |
@@ -55,3 +55,21 @@ Last update at 04/04/2024 - 12:40.
 | 02/04/2024 | Gilmar Goes |  |  |
 | 03/04/2024 | Marcos Tavares Lima | Rede Mensageiros da Paz | https://redemensageirosdapaz.com.br |
 | 03/04/2024 | Samuel Ferman |  |  |
+| 04/04/2024 | Martinho de Oliveira  |  |  |
+| 04/04/2024 | Glaciel Soares do Nascimento |  |  |
+| 05/04/2024 | Paulo Roberto Freire |  |  |
+| 06/04/2024 | Pablo Rodrigo |  |  |
+| 07/04/2024 | Benito Villanueva |  |  |
+| 07/04/2024 | John Cole |  |  |
+| 09/04/2024 | Daniel Costa Pereira |  |  |
+| 09/04/2024 | Sandro Lima dos Santos |  |  |
+| 10/04/2024 | Marcio Barros da Silva | Web Rádio Serra FM |  |
+| 11/04/2024 | Marco Antonio De Román Mello |  |  |
+| 20/04/2024 | Jose Ferreira de Souza |  |  |
+| 22/04/2024 | Jorge Santiago |  |  |
+| 25/04/2024 | Carlos Villa |  |  |
+| 30/04/2024 | Gilmar Goes |  |  |
+| 02/05/2024 | Cristiano Sergio dos Santos |  |  |
+| 07/05/2024 | Otoniel Esau Rivera Rivera |  |  |
+| 09/05/2024 | Manoel Joaquim | Radio Metal On |  |
+| 17/05/2024 | Marcio Barros da Silva | Web Rádio Serra FM |  |
