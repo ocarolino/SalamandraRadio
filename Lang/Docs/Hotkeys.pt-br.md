@@ -2,6 +2,12 @@
 
 Para agilizar o uso do programa, o Salamandra conta com algumas teclas de atalho que você pode ver descritas abaixo.
 
+Observe que **certas teclas de atalho tem um contexto**! Para usar as teclas relacionadas à playlist, por exemplo, é ideal que a playlist esteja selecionada. Caso a listagem do explorador esteja selecionada, ou um campo de texto, algumas teclas podem não funcionar. 
+
+Além disso, é importante lembrar que o sistema operacional tem seu próprio comportamento em relação às teclas de atalho. Clicar em um botão, por exemplo, faz com que o sistema operacional considere aquele botão como "selecionado". Assim, se você apertar espaço quando um botão estiver selecionado irá simular um clique nesse botão.
+
+O ideal é após fazer qualquer operação com o mouse, clicar na Playlist ou em um trecho neutro da tela para poder aproveitar as teclas de atalho relacionadas à reprodução do player.
+
 ## Arquivo da Playlist
 
 **CTRL+N** - Nova Playlist.
@@ -54,7 +60,9 @@ Para agilizar o uso do programa, o Salamandra conta com algumas teclas de atalho
 
 **CTRL+1,2,3,4** - Abrir o Player Auxiliar correspondente.
 
-**0-9, ALT + 0-9** - Ativar o botão da Cartucheira correspondente à tecla de atalho.
+**Númerico superior do teclado: 0 a 9, ALT + 0-9** - Ativar o botão da Cartucheira de 1 a 20 correspondente à tecla de atalho.
+
+**Numérico a direita do teclado: 0 a 9** - Ativar o botão da Cartucheira de 1 a 10 correspondente à tecla de atalho.
 
 ## Playlist e Lista de Eventos
 
