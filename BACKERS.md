@@ -6,7 +6,7 @@ The information is extracted from payment receipts. If you are a backer and ther
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
-Last update at 18/05/2024 - 15:41.
+Last update at 01/08/2024 - 12:26.
 
 | Date | Name | Radio | Site |
 | ---- | ---- | ----- | ---- |
@@ -70,7 +70,20 @@ Last update at 18/05/2024 - 15:41.
 | 25/04/2024 | Carlos Villa |  |  |
 | 30/04/2024 | Gilmar Goes |  |  |
 | 02/05/2024 | Cristiano Sergio dos Santos |  |  |
-| 07/05/2024 | Otoniel Esau Rivera Rivera |  |  |
+| 07/05/2024 | Otoniel Esau Rivera Rivera | Stereo Verde 93.9 | www.stereoverde939.com |
 | 09/05/2024 | Manoel Joaquim | Radio Metal On |  |
-| 17/05/2024 | Marcio Barros da Silva | Web Rádio Serra FM |  |
+| 17/05/2024 | Marcio Barros da Silva | Web Rádio Serra FM | https://serrafm.com |
 | 18/05/2024 | Martinho de Oliveira  |  |  |
+| 19/05/2024 | Phillip Campbell |  |  |
+| 23/05/2024 | Waldirclenio Ubirajara da Silva |  |  |
+| 07/06/2024 | Martinho de Oliveira |  |  |
+| 07/06/2024 | Glaciel Soares do Nascimento |  |  |
+| 12/06/2024 | Marcio Barros da Silva | Web Rádio Serra FM | https://serrafm.com |
+| 14/06/2024 | Gilberto Fagundes Alegre |  |  |
+| 19/06/2024 | Rogelio Alberto García Reyes |  |  |
+| 05/07/2024 | Antonio Trinck Sobrinho |  |  |
+| 07/07/2024 | Renne Vasconcelos Evangelista |  |  |
+| 08/07/2024 | Renne Vasconcelos Evangelista |  |  |
+| 11/07/2024 | Luiz Antonio Rosa de Souza |  |  |
+| 18/07/2024 | Marcio Barros da Silva | Web Rádio Serra FM | https://serrafm.com |
+| 22/07/2024 | Willian Sangy De Sousa Emerick |  |  |
