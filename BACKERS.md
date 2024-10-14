@@ -6,7 +6,7 @@ The information is extracted from payment receipts. If you are a backer and ther
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
-Last update at 09/09/2024 - 12:26.
+Last update at 14/10/2024 - 08:34.
 
 | Date | Name | Radio | Site |
 | ---- | ---- | ----- | ---- |
@@ -89,3 +89,8 @@ Last update at 09/09/2024 - 12:26.
 | 22/07/2024 | Willian Sangy De Sousa Emerick |  |  |
 | 18/08/2024 | Sidnei Pereira dos Santos |  |  |
 | 27/08/2024 | Marcio Barros da Silva | Web Rádio Serra FM | https://serrafm.com |
+| 11/09/2024 | Serranafmsbs | Serranafmsbs |  |
+| 14/09/2024 | ALEXSANDRO PEREIRA NOVAES |  |  |
+| 22/09/2024 | Nilton César Da Rocha |  |  |
+| 26/09/2024 | Marcio Barros da Silva | Web Rádio Serra FM | https://serrafm.com |
+| 04/10/2024 | Victor Hernández |  |  |
