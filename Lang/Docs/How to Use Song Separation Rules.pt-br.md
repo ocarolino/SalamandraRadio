@@ -70,4 +70,16 @@ Caso esteja "Artista1 - Título feat. Artista2", o segundo artista não será de
 
 Para as regras de separação funcionarem corretamente, suas pastas devem ter música o suficiente para aplica-las. Caso as pastas não tenham, o Salamandra selecionará uma faixa aleatória sem obedecer as regras. Quando isso acontecer, você poderá ver no registro em texto ou no histórico a informação ao lado do nome do áudio: *Picked at random. Couldn't apply separation rules. (Selecionado aleatoriamente. Não foi possível aplicar regras de separação.)*. O Salamandra faz essa seleção aleatória em vez de pular ou ignorar a pasta para que não se quebre a sequencia que foi planejada na playlist.
 
-As regras por padrão pedem que as faixa não se repitam por 1440 minutos (1 dia). Caso uma de suas pastas que está na playlist tenha menos do que isso, essa pasta correrá o risco de ter repetições. O mesmo vale para uma pasta que não tenham artistas o suficiente para a separação de artistas, ou tenham músicas apenas de um artista, nessas também haverá o risco de repetição. Para estas pastas e específicas, você pode utilizar a opção de editar atributos para escolher uma configuração que seja conveniente.
+As regras por padrão pedem que as faixa não se repitam por 1440 minutos (1 dia). Caso uma de suas pastas que está na playlist tenha menos do que isso, essa pasta correrá o risco de ter repetições. 
+
+O mesmo vale para uma pasta que não tenham artistas o suficiente para a separação de artistas, ou tenham músicas apenas de um artista, nessas também haverá o risco de repetição. Para estas pastas específicas, você pode utilizar a opção de editar atributos para escolher uma configuração que seja conveniente.
+
+Para pastas que tenham um único artista, por exemplo, você pode configurar da seguinte forma:
+
+<p align="center">
+	<img src="Images/Separation/Separation_07.png" alt="Menu para acessar regras de separação"/>
+</p>
+
+Observe que tenho a mesma pasta várias vezes em minha playlist. Como desejo fazer um especial de um determinado artista, uso as pastas com separação para utilizar as regras, porém em seu atributo, desativo a regra para artista com valor 0 (zero). Dessa forma, ele continuará seguindo as regras padrão de repetição de faixa, evitando de correr o risco da mesma música de tocar duas vezes. Caso eu não desativasse as regras para artista, **haveria o risco de ambas as regras serem ignoradas**.
+
+Tenha em conta que a repetição de uma mesma faixa está ligada também a **periodicidade** de uma pasta! Como neste caso estou repetindo a mesma pasta dentro de um pequeno espaço de tempo, há a necessidade de criar este ajuste de regras. Porém, se a pasta tivesse artistas mais variados, ou fosse uma única pasta em uma playlist com vários outros artistas, não haveria essa necessidade.
