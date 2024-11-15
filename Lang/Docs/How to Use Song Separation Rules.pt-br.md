@@ -1,5 +1,7 @@
 # Como configurar a separação musical no Salamandra
 
+## Utilizando as Regras de Separação
+
 A partir da versão 0.6.0, o Salamandra conta com as configurações de separação musical, para que não se repita a mesma faixa ou artista dentro de um determinado período de tempo.
 
 Você pode adicionar as faixas aleatórias que respeitarão as regras de separação pelo menu **Playlist > Adicionar arquivo aleatório de pasta (com separação)**.
@@ -7,6 +9,8 @@ Você pode adicionar as faixas aleatórias que respeitarão as regras de separa�
 <p align="center">
 	<img src="Images/Separation/Separation_03.png" alt="Menu para acessar regras de separação"/>
 </p>
+
+As regras de separação **apenas funcionarão na pasta com o símbolo azul.** As pastas antigas, com o símbolo pardo NÃO OBECEDEM OS TEMPOS, apenas seguem a regra de tocar toda a música da pasta até não haver mais opção, para então repetir.
 
 Para configurar os tempos a serem respeitados, você pode acessar o menu **Ferramentas > Regras de Separação Musical**.
 
@@ -24,7 +28,7 @@ Note que você também pode configurar os separadores para como serão reconheci
 
 Há a opção também de **usar apenas o artista principal para separação**. Caso ativada, apenas o primeiro artista reconhecido nas músicas será considerado para as regras.
 
-## Configuração Customizada
+### Configuração Customizada
 
 Caso para uma pasta (ou pastas) você deseje customizar os tempos das regras de separação, você pode clicar com o botão direito sobre ela na playlist e acessar a opção de **Editar atributos da faixa**.
 
@@ -61,3 +65,9 @@ Caso não haja nenhuma informação nas tags do arquivo relacionadas à artista 
 O Salamandra detectará também se a canção tem múltiplos artistas através dos separadores, mas pra isso, as músicas tem que estar bem organizadas. Seja via tags ou nome do arquivo, múltiplos artistas devem estar no mesmo campo: **"Artista1 feat. Artista2 - Título"**, por exemplo. 
 
 Caso esteja "Artista1 - Título feat. Artista2", o segundo artista não será detectado. Outra coisa a observar é que os nomes do artista também devem ser padronizados, "Beatles", por exemplo, se houver músicas como "Beatles", outras como "The Beatles", ou "Os Beatles", estes serão considerados como artistas diferentes.
+
+## Como funcionam as regras de separação?
+
+Para as regras de separação funcionarem corretamente, suas pastas devem ter música o suficiente para aplica-las. Caso as pastas não tenham, o Salamandra selecionará uma faixa aleatória sem obedecer as regras. Quando isso acontecer, você poderá ver no registro em texto ou no histórico a informação ao lado do nome do áudio: *Picked at random. Couldn't apply separation rules. (Selecionado aleatoriamente. Não foi possível aplicar regras de separação.)*. O Salamandra faz essa seleção aleatória em vez de pular ou ignorar a pasta para que não se quebre a sequencia que foi planejada na playlist.
+
+As regras por padrão pedem que as faixa não se repitam por 1440 minutos (1 dia). Caso uma de suas pastas que está na playlist tenha menos do que isso, essa pasta correrá o risco de ter repetições. O mesmo vale para uma pasta que não tenham artistas o suficiente para a separação de artistas, ou tenham músicas apenas de um artista, nessas também haverá o risco de repetição. Para estas pastas e específicas, você pode utilizar a opção de editar atributos para escolher uma configuração que seja conveniente.
