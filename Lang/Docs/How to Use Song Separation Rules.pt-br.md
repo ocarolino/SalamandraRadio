@@ -30,7 +30,9 @@ Há a opção também de **usar apenas o artista principal para separação**. C
 
 ### Configuração Customizada
 
-Caso para uma pasta (ou pastas) você deseje customizar os tempos das regras de separação, você pode clicar com o botão direito sobre ela na playlist e acessar a opção de **Editar atributos da faixa**.
+As configurações definidas na seção assim valerão para todas as pastas com o ícone azul. Se você considerar as regras escolhidas no menu o suficiente para seu acervo, não há necessidade de fazer mais nada. 
+
+Porém, se você desejar fazer ajustes finos, é possível fazer customizações nas faixas individualmente em cada playlist. Você pode clicar com o botão direito sobre ela na playlist e acessar a opção de **Editar atributos da faixa**.
 
 <p align="center">
 	<img src="Images/Separation/Separation_04.png" alt="Menu para acessar regras de separação"/>
@@ -44,7 +46,7 @@ Será aberta para você a janela de edição de atributos da faixa, onde você p
 
 As pastas que tem uma configuração customizada estarão com a informação *(Customizada)* em itálico ao lado de seu nome. O atributo definido só funcionará **na faixa específica configurada**! Se você tiver várias cópias do mesmo caminho na playlist, será necessário copiar e colar novamente se você desejar replicar a mesma customização em todas.
 
-Observe também que para guardar estas customizações, você deverá salvar a playlist como **.m3u, .slrot ou .slseq**. Os formatos .lst, .rot e .seq NÃO SUPORTAM qualquer espécie de customização.
+Observe também que para guardar estas customizações, você deverá salvar a playlist como **.m3u, .slrot ou .slseq**. Os formatos .lst, .rot e .seq NÃO SUPORTAM qualquer espécie de customização individual de cada faixa da playlist, sendo aplicadas para estes apenas as regras gerais definidas no menu de Ferramentas.
 
 --
 
