@@ -6,7 +6,7 @@ As informações são extraidas dos comprovantes de pagamento. Se você é um ap
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
-Última atualização em 14/10/2024 - 08:34.
+Última atualização em 02/12/2024 - 09:40.
 
 | Date | Name | Radio | Site |
 | ---- | ---- | ----- | ---- |
@@ -94,3 +94,11 @@ As informações são extraidas dos comprovantes de pagamento. Se você é um ap
 | 22/09/2024 | Nilton César Da Rocha |  |  |
 | 26/09/2024 | Marcio Barros da Silva | Web Rádio Serra FM | https://serrafm.com |
 | 04/10/2024 | Victor Hernández |  |  |
+| 18/10/2024 | Almir Eduardo Santos Junior |  |  |
+| 25/10/2024 | Gilmar Goes |  |  |
+| 25/10/2024 | Marcio Barros da Silva | Web Rádio Serra FM | https://serrafm.com |
+| 26/10/2024 | Marcelo Xavier Ribeiro |  |  |
+| 17/11/2024 | Martinho de Oliveira |  |  |
+| 23/11/2024 | Antonio Ferreira Mendes |  |  |
+| 28/11/2024 | Geremias dos Santos |  |  |
+| 30/11/2024 | Marcio Barros da Silva | Web Rádio Serra FM | https://serrafm.com |
