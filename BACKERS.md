@@ -6,7 +6,7 @@ The information is extracted from payment receipts. If you are a backer and ther
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
-Last update at 02/12/2024 - 09:40.
+Last update at 23/12/2024 - 13:14.
 
 | Date | Name | Radio | Site |
 | ---- | ---- | ----- | ---- |
@@ -102,3 +102,7 @@ Last update at 02/12/2024 - 09:40.
 | 23/11/2024 | Antonio Ferreira Mendes |  |  |
 | 28/11/2024 | Geremias dos Santos |  |  |
 | 30/11/2024 | Marcio Barros da Silva | Web Rádio Serra FM | https://serrafm.com |
+| 03/12/2024 | Gilmar Goes |  |  |
+| 13/12/2024 | Jose A Marques Amaral |  |  |
+| 19/12/2024 | Anderson Carlos Araújo De Souza |  |  |
+| 20/12/2024 | Marcio Barros da Silva | Web Rádio Serra | https://webradioserra.com |
