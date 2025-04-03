@@ -6,7 +6,7 @@ The information is extracted from payment receipts. If you are a backer and ther
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
-Last update at 23/12/2024 - 13:14.
+Last update at 03/04/2025 - 18:34.
 
 | Date | Name | Radio | Site |
 | ---- | ---- | ----- | ---- |
@@ -106,3 +106,27 @@ Last update at 23/12/2024 - 13:14.
 | 13/12/2024 | Jose A Marques Amaral |  |  |
 | 19/12/2024 | Anderson Carlos Araújo De Souza |  |  |
 | 20/12/2024 | Marcio Barros da Silva | Web Rádio Serra | https://webradioserra.com |
+| 23/12/2024 | John Cole |  |  |
+| 30/12/2024 | RADIO ANTENA 5 FM LTDA |  |  |
+| 01/01/2025 | Marcelo de Oliveira Costa |  |  |
+| 07/01/2025 | symbiose SAS |  |  |
+| 08/01/2025 | Cleber Goncalves Dos Santos | Rádio UP! | radioup.antbr.com |
+| 13/01/2025 | ANADERCIO FERREIRA ALVES |  |  |
+| 13/01/2025 | Pavel Sotirov |  |  |
+| 22/01/2025 | Marcio Barros da Silva | Web Rádio Serra | https://webradioserra.com |
+| 31/01/2025 | CELIO ALEXANDRE MONTANHINI |  |  |
+| 04/02/2025 | CRISTIANO SERGIO DOS SANTOS |  |  |
+| 04/02/2025 | NALDO DE CARVALHO |  |  |
+| 09/02/2025 | RadioUP |  |  |
+| 09/02/2025 | Ivo Angelani |  |  |
+| 15/02/2025 | Martinho de Oliveira | MP Telecom | https://martinhoradio.com.br |
+| 06/03/2025 | Marcio Barros da Silva | Web Rádio Serra | https://webradioserra.com |
+| 08/03/2025 | CLAUDIO RODRIGUES |  |  |
+| 15/03/2025 | Martinho de Oliveira | MP Telecom | https://martinhoradio.com.br |
+| 17/03/2025 | Grupo Serenidad |  |  |
+| 18/03/2025 | JOSE CARLOS ALBINO |  |  |
+| 22/03/2025 | Adair Gecse |  |  |
+| 25/03/2025 | Marcio Barros da Silva | Web Rádio Serra | https://webradioserra.com |
+| 28/03/2025 | Reginaldo Da Silva Mota |  |  |
+| 02/04/2025 | Marco Antonio Correa |  |  |
+| 02/04/2025 | Jose Carlos Albino |  |  |
