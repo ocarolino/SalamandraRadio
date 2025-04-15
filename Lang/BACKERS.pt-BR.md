@@ -6,7 +6,7 @@ As informações são extraidas dos comprovantes de pagamento. Se você é um ap
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
-Última atualização em 03/04/2025 - 18:34.
+Última atualização em 15/04/2025 - 09:46.
 
 | Date | Name | Radio | Site |
 | ---- | ---- | ----- | ---- |
@@ -130,3 +130,7 @@ As informações são extraidas dos comprovantes de pagamento. Se você é um ap
 | 28/03/2025 | Reginaldo Da Silva Mota |  |  |
 | 02/04/2025 | Marco Antonio Correa |  |  |
 | 02/04/2025 | Jose Carlos Albino |  |  |
+| 07/04/2025 | Renne Vasconcelos Evangelista |  |  |
+| 10/04/2025 | Denis Gusman Alejo |  |  |
+| 14/04/2025 | Jesus Ma Del Barrio Gomez |  |  |
+| 15/04/2025 | Carlos Werner Heinzelmann |  |  |
