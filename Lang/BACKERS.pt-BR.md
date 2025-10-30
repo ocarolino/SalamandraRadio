@@ -6,7 +6,7 @@ As informações são extraidas dos comprovantes de pagamento. Se você é um ap
 
 <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a>
 
-Última atualização em 15/04/2025 - 09:46.
+Última atualização em 30/10/2025 - 19:42.
 
 | Date | Name | Radio | Site |
 | ---- | ---- | ----- | ---- |
@@ -134,3 +134,53 @@ As informações são extraidas dos comprovantes de pagamento. Se você é um ap
 | 10/04/2025 | Denis Gusman Alejo |  |  |
 | 14/04/2025 | Jesus Ma Del Barrio Gomez |  |  |
 | 15/04/2025 | Carlos Werner Heinzelmann |  |  |
+| 15/04/2025 | José Bartolomeu Fernandes Dos Santos |  |  |
+| 15/04/2025 | Marcio Barros da Silva |  |  |
+| 15/04/2025 | Gilmar Goes |  |  |
+| 15/04/2025 | Elsias López |  |  |
+| 20/04/2025 | Geremias Dos Santos |  |  |
+| 20/04/2025 | Mark Heberman |  |  |
+| 21/04/2025 | Aquiles Besoain Gallardo |  |  |
+| 23/04/2025 | Jose C Andrade Barboza |  |  |
+| 24/04/2025 | Damiao Cordeiro Da Silva |  |  |
+| 27/04/2025 | Luis Castrillo Martinez |  |  |
+| 27/04/2025 | Matías Vefa |  |  |
+| 28/04/2025 | Fabiano Dantas Mendes De Araujo |  |  |
+| 29/04/2025 | Jaime Fernandes De Oliveira |  |  |
+| 04/05/2025 | David Holden |  |  |
+| 07/05/2025 | Gustavo Nogarett Pibernat De Carvalho |  |  |
+| 08/05/2025 | Luiz Fernando Dias Ventura |  |  |
+| 17/05/2025 | Martinho de Oliveira | MP Telecom | https://martinhoradio.com.br |
+| 26/05/2025 | Catarina Apolonio | Radio Paulo Freire | https://radiopaulofreire.ufpe.br |
+| 31/05/2025 | Jose Manuel Ulloa Lara |  |  |
+| 16/06/2025 | Marcio Barros da Silva | Web Rádio Serra | https://webradioserra.com |
+| 16/06/2025 | Cleber Goncalves Dos Santos | Rádio UP! | radioup.antbr.com |
+| 17/06/2025 | Gilmar Goes |  |  |
+| 18/06/2025 | Isabel Zaragoza |  |  |
+| 20/06/2025 | John Cole |  |  |
+| 20/06/2025 | Roberto Batista De Araújo |  |  |
+| 20/06/2025 | Roberto Batista De Araújo |  |  |
+| 20/06/2025 | ASSOCIAÇÃO COMUNITÁRIA CULTURAL |  |  |
+| 24/06/2025 | Midia Voz Agencia De Publicidade Ltda |  |  |
+| 25/06/2025 | Grupo Serenidad |  |  |
+| 26/06/2025 | Marcio Levita |  |  |
+| 27/06/2025 | Nemesio Ramos Ventura |  |  |
+| 12/07/2025 | Christopher Morris |  |  |
+| 16/07/2025 | Rubens Ramos Dos Reis |  |  |
+| 18/07/2025 | Marcio Barros Da Silva | Web Rádio Serra | https://webradioserra.com |
+| 18/07/2025 | Carlos Fernando Murali |  |  |
+| 25/07/2025 | Carlos Fernando Murali |  |  |
+| 07/08/2025 | José Sérgio Pereira |  |  |
+| 12/08/2025 | Cristiano Sergio dos Santos |  |  |
+| 14/08/2025 | Noel Lucas |  |  |
+| 19/08/2025 | Junior Stédile | Js Comunicacao E Servicos Ltda Me |  |
+| 26/08/2025 | Reginaldo Ferreira De Castilho |  |  |
+| 08/09/2025 | Wilington Luiz De Souza |  |  |
+| 13/09/2025 | Marcio Barros Da Silva | Web Rádio Serra | https://webradioserra.com |
+| 17/09/2025 | Clenildo Lima Do Vale |  |  |
+| 18/09/2025 | Glayson Santos |  |  |
+| 22/09/2025 | Jorge Arturo Herrera Borja |  |  |
+| 27/09/2025 | Santos Rull |  |  |
+| 18/10/2025 | Marcio Barros Da Silva | Web Rádio Serra | https://webradioserra.com |
+| 18/10/2025 | Flavio Roque Da Cruz Neto | Radio Tabajara São Benedito |  |
+| 27/10/2025 | Jose Carlos Albino |  |  |
