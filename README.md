@@ -87,39 +87,7 @@ Right now, what we really need is testing. All functionalities are stable in our
 
 # Donations
 
-<p align="center">
-<a href="https://github.com/ocarolino/SalamandraRadio/blob/main/BACKERS.md">List of our backers!</a>
-</p>
-
-Salamandra is a completely free software, you don't have to pay in any way to use it with all its functions. However, it is a software developed in my free time as a hobby to practice programming.
-
-If you consider it useful for your radio or work in any way and wish to make a monetary contribution, feel free to contribute with a token donation through the links below:
-
-<p align="center">
-	<img src="Readme/paypal-logo.png" alt="Pay Pal" width="196"/>
-</p>
-
-<p align="center">
-	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C3KRZ3MEGJGL8">R$ 20,00</a> |
-	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CUGK5THLXMTML">R$ 35,00</a> |
-	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TA6HGGPQYZNXE">R$ 50,00</a>
-</p>
-
-<p align="center">
-<img src="Readme/mercado-pago-logo.png" alt="Mercado Pago" width="196">
-</p>
-
-<p align="center">
-	<a href="https://mpago.la/2TrMuvN">R$ 20,00</a> |
-	<a href="https://mpago.la/1XN7QWp">R$ 35,00</a> |
-	<a href="https://mpago.la/2kzSgwS">R$ 50,00</a>
-</p>
-
-<p align="center">
-AFTER MAKING THE DONATION, send the receipt to the email: <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a> or in the Inbox on the <a href="https://www.facebook.com/salamandraradiosoftware">Facebook page</a>.
-</p>
-
-Before making any donations, please understand that this is one of the ways of showing your appreciation for this project - **there will be no buyer/seller relationship!**. There is no promises of warranty, support, attention to new functionality requests or any obligations between me (developer) and you (user) through a contribution.
+The donation model will soon be replaced by Salamandra PLUS; you can learn more about it at the following link: [Salamandra PLUS](https://salamandraautomacao.com/en/plus).
 
 # Libraries and Resources
 

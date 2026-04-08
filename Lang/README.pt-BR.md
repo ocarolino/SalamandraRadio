@@ -95,53 +95,8 @@ O Salamandra é um software gratuito, mas não é de código aberto - isso não 
 
 # Doações
 
-<p align="center">
-<a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/BACKERS.pt-BR.md">Lista dos apoiadores!</a>
-</p>
+O modelo de doações será em breve substituido pelo Salamandra PLUS, você pode saber mais sobre isso no link: [Salamandra PLUS](https://salamandraautomacao.com/pt/plus).
 
-O Salamandra é um software completamente gratuito, você não precisa pagar de forma alguma para usá-lo na totalidade de suas funções. Porém, ele é um software desenvolvido no meu tempo livre como um hobby para praticar programação. 
-
-Caso você considere-o útil para sua rádio ou trabalho de alguma forma e deseje fazer uma contribuição monetária, sinta-se livre para contribuir com um valor simbólico através dos links abaixo:
-
-<p align="center">
-<img src="../Readme/mercado-pago-logo.png" alt="Mercado Pago" width="196">
-</p>
-
-<p align="center">
-	<a href="https://mpago.la/2TrMuvN">R$ 20,00</a> |
-	<a href="https://mpago.la/1XN7QWp">R$ 35,00</a> |
-	<a href="https://mpago.la/2kzSgwS">R$ 50,00</a>
-</p>
-
-<p align="center">
-	<img src="../Readme/paypal-logo.png" alt="Pay Pal" width="196"/>
-</p>
-
-<p align="center">
-	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C3KRZ3MEGJGL8">R$ 20,00</a> |
-	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CUGK5THLXMTML">R$ 35,00</a> |
-	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TA6HGGPQYZNXE">R$ 50,00</a>
-</p>
-
-<p align="center">
-Ou via PIX - <strong>salamandraradioautomation@gmail.com</strong><br/>(Matheus da Silva Carolino)</strong>
-</p>
-
-<p align="center">
-PIX NÃO TEM VALOR DEFINIDO, ENTÃO ATENTE PARA O VALOR ENVIADO!
-</p>
-
-<p align="center">
-APÓS FAZER A DOAÇÃO, envie o comprovante para o e-mail: <a href="mailto:salamandraradioautomation@gmail.com">salamandraradioautomation@gmail.com</a> ou no Inbox da<a href="https://www.facebook.com/salamandraradiosoftware">página do Facebook</a>.
-</p>
-
-<p align="center">
-<img src="../Readme/PixQrCode.png" alt="Mercado Pago" width="196">
-</p>
-
-Antes de fazer qualquer contribuição, entenda que esta é uma das formas de mostrar sua apreciação por este projeto - **não haverá qualquer relação entre comprador e vendedor!** 
-
-Não há qualquer promessa de garantia, suporte, atenção a requisição de novas funcionalidades ou qualquer obrigação entre mim (desenvolvedor) e você (usuário) através de uma contribuição. Lembre-se, também há [outras formas de contribuir](#contribuições) para o projeto se assim desejar!
 
 # Bibliotecas e Recursos
 
